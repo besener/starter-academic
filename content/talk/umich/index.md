@@ -1,9 +1,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tenth Annual International Graduate Student Workshop"
-event: "Armenian Studies and Material Objects"
+title: Tenth Annual International Graduate Student Workshop
+event: Armenian Studies and Material Objects
 event_url: "https://ii.umich.edu/armenian/news-events/all-events/workshops/april-2019--armenian-studies-and-material-objects.html"
-location: University of Michigan
+location: "University of Michigan"
 summary: "Inspired by the interdisciplinary possibilities and the innovative scholarly avenues that the study of materiality can open in the field of Armenian Studies, the 2019 International Graduate Student Workshop focuses on the theme of material objects. The exploration of society, arts, culture, and politics through material objects will provide opportunities to discover the ordinary or the everyday practices and experiences of Armenian communities across space and time."
 
 abstract:
@@ -41,7 +41,6 @@ image:
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
-
 url_code:
 url_pdf: "https://lsa.umich.edu/content/dam/armenian-assets/armenian-documents/Updated%20program.pdf"
 url_video:
