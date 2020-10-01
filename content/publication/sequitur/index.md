@@ -1,9 +1,10 @@
 ---
-title: "Exhibition Review of ‘Armenia!’ by The Metropolitan Museum of Art, New
-York September 22, 2018 – January 13, 2019.” SEQUITUR 5, no. 2 (2019)"
+title: "Exhibition Review of ‘Armenia!’ by the Metropolitan Museum of Art, New
+York September 22, 2018 – January 13, 2019.” *SEQUITUR* 5, no. 2 (2019)"
 date: 2020-05-04
 publication_types: ["1"]
-abstract:  "This short essay aims to give graduate students some simple but effective strategies about the digital tools that I have found helpful to organize my work and time."
+abstract:  "The Metropolitan Museum of Art’s ‘Armenia!’ exhibition is the first significant attempt in the United States to explore
+the legacy of Armenian artistic and cultural productions."
 publication: In *Sequitur*
 authors: []
 links:
