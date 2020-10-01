@@ -10,9 +10,9 @@ primary = "#F4D03F"
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
-menu_text_active = "#2962ff"
+menu_text_active = "#F4D03F" #2962ff
 menu_title = "#2b2b2b"
 
 # Home sections
-home_section_odd = "#F4D03F"
-home_section_even = "#F4D03F"
+home_section_odd = "hsla(231, 15%, 18%, 1)"
+home_section_even = "hsla(231, 15%, 16%, 1)"
