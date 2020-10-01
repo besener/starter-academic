@@ -39,13 +39,13 @@ date_format = "Jan 2006"
   description = """Hands-on workshop with coins by tracking historic examples of change on Umayyad, Abbasid, Byzantine and Sasanian coinage."""
 
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
+  organization = "Cappadocia in Context Summer Program"
+  organization_url = "https://anamed.ku.edu.tr/en/programs/cappadocia-in-context-summer-program/"
   title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  url = "https://www.facebook.com/pg/Anamed.kocuni/photos/?tab=album&album_id=2097604317121738"
+  certificate_url = "https://www.facebook.com/pg/Anamed.kocuni/photos/?tab=album&album_id=2097604317121738"
+  date_start = "2018-06-18"
+  date_end = "2018-07-03"
+  description = """The program aims to provide conceptualisation methods of the rich cultural heritage of Cappadocia’s Byzantine and Post-Byzantine past in the historical and artistic context, accompanied by field studies, research and presentations. Within its breathtaking volcanic landscape, Cappadocia preserves extensive rock-cut features from the Byzantine period, including more than a thousand rock-cut churches and chapels (one-third of which preserve significant elements of their painted decoration), as well as monasteries, houses, villages, towns, cemeteries, and fortresses."""
   
 +++
