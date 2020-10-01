@@ -1,32 +1,30 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PEDALONS: Zoom and Regional Climates"
-event: "PEDALONS: Zoom and Regional Climates"
-event_url: "https://lmdz.lmd.jussieu.fr/le-coin-des-developpeurs/reunions/2020-01-13"
-location: LMD
+title: "Studying East of Byzantium VI: The State of the Field"
+event: "Studying East of Byzantium VI: The State of the Field"
+event_url: "https://eastofbyzantium.org/past-events/studying-east-of-byzantium-vi/"
+location: Tufts University
 address:
-  street: 4, place Jussieu (Tour 45-55, 2ème étage, salle 201-A)
-  city: Paris
+  street: 
+  city: 
   region:
   postcode:
-  country: France
-summary: "Modélisation de la variabilité et des tendances climatiques en
-Himalaya pour une meilleure compréhension de leurs impacts sur la
-cryosphère"
-abstract:
+  country: 
+summary: "Studying East of Byzantium VI: The State of the Field is a two-day workshop that intends to bring together doctoral students in North America studying the Christian East to reflect on the state of the field across its many disciplines, to share methodologies, and to discuss their research with senior specialists in the field."
+abstract: "Paper Title: Objects of Protection in Medieval Anatolia: Apotropaia among the Armenians, Byzantines and Rum Seljuks"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-01-13T09:30:00+02:00
-date_end: 2020-01-13T12:30:00+02:00
-all_day: false
+date: 2020-03-13
+date_end: 2020-03-14
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-05-19T17:48:38+02:00
 
 authors: []
-tags: ["PEDALONS", "LMDZ", "Himalaya"]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -51,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "talk/zoom-and-regional-climates/20200113_PEDALONS_zoom_LALANDE.pdf"
+url_pdf: "https://eastofbyzantium.files.wordpress.com/2020/03/east-of-byzantium-vi-schedule.pdf"
 url_video:
 
 # Markdown Slides (optional).
@@ -69,4 +67,3 @@ slides: ""
 projects: ["PhD"]
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfgdC4X65oRhwZvxGy_E5SRP4g5giU3mUo3z2Wjy-v5PaRm9dU076N9kzCRhLp0yOSe6WrxjhPV_4m/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
