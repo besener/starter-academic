@@ -4,13 +4,8 @@ title: "Tenth Annual International Graduate Student Workshop"
 event: "Armenian Studies and Material Objects"
 event_url: "https://ii.umich.edu/armenian/news-events/all-events/workshops/april-2019--armenian-studies-and-material-objects.html"
 location: University of Michigan
-address:
-  street: 
-  city: 
-  region:
-  postcode:
-  country: 
 summary: "Inspired by the interdisciplinary possibilities and the innovative scholarly avenues that the study of materiality can open in the field of Armenian Studies, the 2019 International Graduate Student Workshop focuses on the theme of material objects. The exploration of society, arts, culture, and politics through material objects will provide opportunities to discover the ordinary or the everyday practices and experiences of Armenian communities across space and time."
+
 abstract:
 
 # Talk start and end times.
