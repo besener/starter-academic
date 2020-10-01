@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Trainings"
 subtitle = ""
 
 # Date format
@@ -19,25 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "Dumbarton Oaks"
+  organization_url = "https://www.doaks.org/visit/museum/exhibitions/past/ornament"
+  title = "Textile Graduate Study Day"
+  url = "https://maryjahariscenter.org/blog/ornament-graduate-study-day"
+  certificate_url = ""
+  date_start = "2019-10-04"
   date_end = ""
-  description = ""
+  description = """Graduate Study Day in conjunction with the exhibition Ornament: Fragments of Byzantine Fashion, Dumbarton Oaks, October 4, 2019."""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "American Numismatic Society"
+  organization_url = "http://numismatics.org/"
+  title = "How to Read Arabic on Coins"
+  url = "http://numismatics.org/money-talks-bacharach/"
+  certificate_url = ""
+  date_start = "2018-05-12"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  description = """Hands-on workshop with coins by tracking historic examples of change on Umayyad, Abbasid, Byzantine and Sasanian coinage."""
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
@@ -47,5 +47,5 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""
-
+  
 +++
