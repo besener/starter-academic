@@ -6,7 +6,7 @@ publication_types: ["2"]
 abstract:  "The Metropolitan Museum of Art’s ‘Armenia!’ exhibition is the first significant attempt in the United States to explore
 the legacy of Armenian artistic and cultural productions."
 publication: In *Sequitur*
-authors: ["Esener, Bihter"]
+authors: []
 links:
 - name: URL
   url: http://www.bu.edu/sequitur/2019/05/08/esener-armenia/
