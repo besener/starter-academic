@@ -2,7 +2,7 @@
 title: "Exhibition Review of ‘Armenia!’ by The Metropolitan Museum of Art, New
 York September 22, 2018 – January 13, 2019.” SEQUITUR 5, no. 2 (2019)"
 date: 2020-05-04
-publication_types: []
+publication_types: ["1"]
 abstract:  "This short essay aims to give graduate students some simple but effective strategies about the digital tools that I have found helpful to organize my work and time."
 publication: In *Sequitur*
 authors: []
