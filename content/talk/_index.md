@@ -11,8 +11,4 @@ view: 2
 header:
   caption: ""
   image: ""
-  
-# Enable in-built social sharing buttons? (true/false)
-sharing = true
-
 ---
