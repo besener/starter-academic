@@ -8,5 +8,5 @@ authors: []
 links:
 - name: URL
   url: https://digitalorientalist.com/2020/05/04/dissertating-in-the-digital-age-research-and-writing-tools-for-organization-and-productivity/
-share: false
+share: true
 ---
