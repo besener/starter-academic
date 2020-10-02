@@ -7,11 +7,13 @@ event_url: "https://ii.umich.edu/armenian/news-events/all-events/workshops/april
 location: The University of Michigan
 address:
   street: 
-  city: Ann Arbor, MI
-  region:
+  city: Ann Arbor, 
+  region: MI
   postcode:
   country: 
+  
 summary: "Inspired by the interdisciplinary possibilities and the innovative scholarly avenues that the study of materiality can open in the field of Armenian Studies, the 2019 International Graduate Student Workshop focuses on the theme of material objects. The exploration of society, arts, culture, and politics through material objects will provide opportunities to discover the ordinary or the everyday practices and experiences of Armenian communities across space and time."
+
 abstract: "Paper Title: ‘Mirror, Mirror on the Wall’: A Cross-Cultural Study of Mirrors as Apotropaic
 and Divinatory Objects among the Armenians, Byzantines and Seljuks
 of Medieval Anatolia"
