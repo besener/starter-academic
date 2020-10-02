@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Hexagonal Tile Ensemble with Sphinx, The Metropolitan Museum of Art, New York"
+  focal_point: "center"
   preview_only: false
 
 # Custom links (optional).
