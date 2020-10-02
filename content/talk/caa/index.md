@@ -1,20 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "109th College Art Association Annual Conference"
-event: "The Politics of the Mirror"
-event_url: "https://caa.confex.com/caa/2021/webprogrampreliminary/Session7877.html"
-location: New York City, NY
+title: "Tenth Annual International Graduate Student Workshop"
+event: "Armenian Studies and Material Objects"
+event_url: "https://ii.umich.edu/armenian/news-events/all-events/workshops/april-2019--armenian-studies-and-material-objects.html"
+location: The University of Michigan
 address:
   street: 
-  city: New York City
-  region: NY
+  city: Ann Arbor
+  region: MI
   postcode:
   country: 
   
-summary: """This panel proposes a global and transhistorical consideration of mirrors as powerful symbols of representation, everyday tools, and materials for aesthetic innovation, with particular attention to the political valences of these objects."""
+summary: "Inspired by the interdisciplinary possibilities and the innovative scholarly avenues that the study of materiality can open in the field of Armenian Studies, the 2019 International Graduate Student Workshop focuses on the theme of material objects. The exploration of society, arts, culture, and politics through material objects will provide opportunities to discover the ordinary or the everyday practices and experiences of Armenian communities across space and time."
 
-abstract: """Paper Title: A Ruler’s Guide to the World: Alexander’s Mirror in Medieval Anatolia"""
+abstract: "Paper Title: ‘Mirror, Mirror on the Wall’: A Cross-Cultural Study of Mirrors as Apotropaic
+and Divinatory Objects among the Armenians, Byzantines and Seljuks
+of Medieval Anatolia"
 
 
 # Talk start and end times.
@@ -51,10 +53,10 @@ image:
 # Optional filename of your slides within your talk's folder or a URL.
 links:
 - name: URL
-  url: https://caa.confex.com/caa/2021/webprogrampreliminary/Session7877.html
+  url: https://ii.umich.edu/armenian/news-events/all-events/workshops/april-2019--armenian-studies-and-material-objects.html
 
 url_slides:
-url_pdf: ""
+url_pdf: "https://lsa.umich.edu/content/dam/armenian-assets/armenian-documents/Updated%20program.pdf"
 url_code: 
 url_video: 
 
@@ -72,3 +74,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["PhD"]
 ---
+
