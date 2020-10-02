@@ -12,5 +12,5 @@ links:
   url: http://www.bu.edu/sequitur/2019/05/08/esener-armenia/
 - name: PDF
   url: http://www.bu.edu/sequitur/files/2019/05/Bihter-Esener.pdf
-share: false
+share: true
 ---
