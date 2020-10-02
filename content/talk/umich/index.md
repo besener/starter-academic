@@ -54,8 +54,9 @@ image:
 url_slides:
 
 url_pdf: "https://lsa.umich.edu/content/dam/armenian-assets/armenian-documents/Updated%20program.pdf"
-url_code: "https://ii.umich.edu/armenian/news-events/all-events/workshops/april-2019--armenian-studies-and-material-objects.html"
-url_video:
+url_url: "https://ii.umich.edu/armenian/news-events/all-events/workshops/april-2019--armenian-studies-and-material-objects.html"
+url_code: 
+url_video: 
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
