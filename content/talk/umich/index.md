@@ -53,8 +53,8 @@ image:
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
 
-url_code:
 url_pdf: "https://lsa.umich.edu/content/dam/armenian-assets/armenian-documents/Updated%20program.pdf"
+url_code: "https://eastofbyzantium.org/past-events/studying-east-of-byzantium-vi/"
 url_video:
 
 # Markdown Slides (optional).
