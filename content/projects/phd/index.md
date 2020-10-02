@@ -2,10 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "PhD Dissertation Project"
-summary: ""
+summary: "Contextualizing bronze mirrors within the lives of the inhabitants of medieval Anatolia"
 authors: []
-tags: []
-categories: []
+tags: ["All"]
+categories: ["PhD"]
 date:
 
 # Optional external URL for project (replaces project detail page).
