@@ -7,41 +7,41 @@
   name = "Biography"
   url = "#about"
   weight = 20
-
-[[main]]
-  name = "Skills"
-  url = "#skills"
-  weight = 30  
   
 [[main]]
   name = "Experience"
   url = "#experience"
-  weight = 40    
-
-# [[main]]
-  # name = "Highlighted Works"
-  # url = "#featured"
-  # weight = 50
+  weight = 30    
   
 [[main]]
   name = "Highlighted Works"
   url = "#publications"
-  weight = 60    
+  weight = 40    
   
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 70    
+  weight = 50    
 
 [[main]]
   name = "Trainings"
   url = "#accomplishments"
-  weight = 80  
+  weight = 60  
+  
+[[main]]
+  name = "Skills"
+  url = "#skills"
+  weight = 70  
   
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 90  
+  weight = 80  
+  
+# [[main]]
+  # name = "Highlighted Works"
+  # url = "#featured"
+  # weight = 90  
 
 [[main]]
   name = "Contact"
