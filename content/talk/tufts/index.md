@@ -52,8 +52,11 @@ url_slides:
 
 url_code: 
 url_pdf: "https://eastofbyzantium.files.wordpress.com/2020/03/east-of-byzantium-vi-schedule.pdf"
-url: "https://eastofbyzantium.org/past-events/studying-east-of-byzantium-vi/"
 url_video:
+links:
+- name: URL
+  url: https://eastofbyzantium.org/past-events/studying-east-of-byzantium-vi/
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
