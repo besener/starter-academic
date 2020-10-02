@@ -54,7 +54,7 @@ image:
 url_slides:
 
 url_pdf: "https://lsa.umich.edu/content/dam/armenian-assets/armenian-documents/Updated%20program.pdf"
-url_code: "https://eastofbyzantium.org/past-events/studying-east-of-byzantium-vi/"
+url_code: "https://ii.umich.edu/armenian/news-events/all-events/workshops/april-2019--armenian-studies-and-material-objects.html"
 url_video:
 
 # Markdown Slides (optional).
