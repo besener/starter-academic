@@ -7,7 +7,7 @@ event_url: "https://ii.umich.edu/armenian/news-events/all-events/workshops/april
 location: The University of Michigan
 address:
   street: 
-  city: 
+  city: Ann Arbor, MI
   region:
   postcode:
   country: 
