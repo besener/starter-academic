@@ -50,8 +50,9 @@ image:
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
 
-url_code:
+url_code: 
 url_pdf: "https://eastofbyzantium.files.wordpress.com/2020/03/east-of-byzantium-vi-schedule.pdf"
+url: "https://eastofbyzantium.org/past-events/studying-east-of-byzantium-vi/"
 url_video:
 
 # Markdown Slides (optional).
