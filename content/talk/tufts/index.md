@@ -7,11 +7,13 @@ event_url: "https://eastofbyzantium.org/past-events/studying-east-of-byzantium-v
 location: Tufts University
 address:
   street: 
-  city: 
-  region:
+  city: Medford
+  region: MA
   postcode:
   country: 
+
 summary: "Studying East of Byzantium VI: The State of the Field is a two-day workshop that intends to bring together doctoral students in North America studying the Christian East to reflect on the state of the field across its many disciplines, to share methodologies, and to discuss their research with senior specialists in the field."
+
 abstract: "Paper Title: Objects of Protection in Medieval Anatolia: Apotropaia among the Armenians, Byzantines and Rum Seljuks"
 
 # Talk start and end times.
