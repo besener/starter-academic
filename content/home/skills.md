@@ -39,9 +39,9 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "photo-video"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Photography & Video Editing"
   description = ""
 
 [[feature]]
