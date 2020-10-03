@@ -11,18 +11,18 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "500px"
+height = "600px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Bihter Esener"
-  content = "Ph.D. Candidate in History of Art"
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#C0C0C0"  # An HTML color value.
+  overlay_color = "#666"  # An HTML color value.
   overlay_img = "IMG12345.JPG"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
