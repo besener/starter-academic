@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 # Slide interval.
@@ -16,7 +16,7 @@ height = "600px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Bihter Esener"
+  title = ""
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
