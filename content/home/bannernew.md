@@ -11,11 +11,6 @@ weight = 10  # Order that this section will appear.
 title = ""
 subtitle = ""
 
-[[item]]
-  title = "Bihter Esener"
-  content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
-
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
