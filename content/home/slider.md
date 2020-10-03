@@ -17,7 +17,7 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Bihter Esener"
-  content = ""
+  content = "Bihter Esener"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -29,7 +29,7 @@ height = "500px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Bihter Esener"
+  cta_label = ""
   cta_url = ""
   cta_icon_pack = ""
   cta_icon = ""
