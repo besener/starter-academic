@@ -50,6 +50,10 @@ subtitle = ""
   name = "Turkish, English, Persian, Ottoman Turkish"
   description = ""  
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
