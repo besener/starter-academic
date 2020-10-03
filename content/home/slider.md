@@ -17,12 +17,12 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Bihter Esener"
-  content = "Bihter Esener"
+  content = "Ph.D. Candidate in History of Art"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#C0C0C0"  # An HTML color value.
   overlay_img = "IMG12345.JPG"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
