@@ -11,7 +11,6 @@ superuser: true
 
 # Role/position
 role: Visiting Graduate Student Fellow
-role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +52,7 @@ social:
   link: https://scholar.google.com/citations?user=mv_0B-4AAAAJ
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org//
+  link: https://orcid.org/
 - icon: zotero
   icon_pack: ai
   link: https://www.zotero.org/besener  
