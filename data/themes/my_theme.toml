@@ -2,16 +2,16 @@
 name = "My Theme"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 primary = "#F4D03F"
 
 # Menu
 menu_primary = "#F4D03F"
-menu_text = "#fff" 
+menu_text = "#F4D03F" 
 menu_text_active = "#F1C40F"
-menu_title = "#fff" 
+menu_title = "#F4D03F" 
 
 # Home sections
 home_section_odd = "rgb(29, 33, 39)"
