@@ -24,7 +24,7 @@
   weight = 50    
 
 [[main]]
-  name = "Trainings"
+  name = "Training"
   url = "#accomplishments"
   weight = 60  
   
