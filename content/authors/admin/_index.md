@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Graduate Student Fellow & PhD Candidate
+role: Visiting Graduate Student Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -36,7 +36,7 @@ education:
     year: 
   - course: Ph.D. Candidate in History of Art
     institution: Koç University
-    year: 2015-
+    year: 2015‐
   - course: M.A. in History
     institution: Istanbul Bilgi University
     year: 2012
