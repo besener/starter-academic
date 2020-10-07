@@ -49,6 +49,6 @@ date_format = "Jan 2006"
   location = "Istanbul, Turkey"
   date_start = "2015-09-01"
   date_end = "2018-12-31"
-  description = """“ARHA/HIST 475: Architecture of the Seljuks of Anatolia Course;” “HUMS125: Empires of the Steppes: Art and Architecture of Eurasian Empires;” “ARHA 440: Historiography and Theory of Art History;” Digitization of bibliographical and archival sources"""
+  description = """Research assistant for courses of “ARHA/HIST 475: Architecture of the Seljuks of Anatolia;” “HUMS125: Empires of the Steppes: Art and Architecture of Eurasian Empires;” “ARHA 440: Historiography and Theory of Art History;” and digitization of bibliographical and archival sources."""
 
 +++
