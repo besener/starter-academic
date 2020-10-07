@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Graduate Student Fellow
+role: Visiting Graduate Student Fellow & Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
 - name: HISTART
   url:"https://lsa.umich.edu/histart" 
+- name: ARHA
+  url: "https://gsssh.ku.edu.tr/en/departments/archaeology-and-history-of-art/"  
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include visual and material culture of the medieval Islamic world, including the collection and display of Islamic art in the nineteenth and twentieth centuries, digital art history, digital tools and visualization.
