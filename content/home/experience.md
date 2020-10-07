@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Digital Technologies Coordinator & Founding Team Member"
   company = "Khamseen: Islamic Art History Online"
-  company_url = "https://sites.lsa.umich.edu/khamseen/"
+  company_url = ""
   location = "Ann Arbor, Michigan"
   date_start = "2020-07-15"
   date_end = ""
@@ -49,6 +49,6 @@ date_format = "Jan 2006"
   location = "Istanbul, Turkey"
   date_start = "2015-09-01"
   date_end = "2018-12-31"
-  description = """"""
+  description = """“ARHA/HIST 475: Architecture of the Seljuks of Anatolia Course;” “HUMS125: Empires of the Steppes: Art and Architecture of Eurasian Empires;” “ARHA 440: Historiography and Theory of Art History;” Digitization of bibliographical and archival sources"""
 
 +++
