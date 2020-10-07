@@ -31,6 +31,9 @@ publishDate:
 authors: []
 tags: []
 
+# Publication Type
+publication_types:"1"
+
 # Is this a featured talk? (true/false)
 featured: false
 
