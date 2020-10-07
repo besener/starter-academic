@@ -10,14 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Graduate Student Fellow & Ph.D. Candidate
+role: Visiting Graduate Student Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: HISTART
   url:"https://lsa.umich.edu/histart" 
-- name: ARHA
-  url: "https://gsssh.ku.edu.tr/en/departments/archaeology-and-history-of-art/"  
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include visual and material culture of the medieval Islamic world, including the collection and display of Islamic art in the nineteenth and twentieth centuries, digital art history, digital tools and visualization.
@@ -67,6 +65,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:besener15@ku.edu.tr"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
