@@ -3,17 +3,11 @@
 
 title: "PhD Dissertation Project"
 publication_types: ["7"]
+date: 2015-02-01
 summary: "Contextualizing bronze mirrors within the lives of the inhabitants of medieval Anatolia"
 authors: []
 tags:
 categories:
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: 2015-02-01
-date_end: 
-all_day: true
-
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://gsssh.ku.edu.tr/en/departments/archaeology-and-history-of-art/"
