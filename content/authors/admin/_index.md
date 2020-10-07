@@ -33,10 +33,10 @@ education:
   courses:
   - course: Freer Visiting Graduate Student Fellow
     institution: University of Michigan
-    year: 2019-
+    year: 
   - course: Ph.D. Candidate in History of Art
     institution: Koç University
-    year: 2015-
+    year: 
   - course: M.A. in History
     institution: Istanbul Bilgi University
     year: 2012
