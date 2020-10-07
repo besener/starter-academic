@@ -10,17 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role:  
+role: Visiting Graduate Student Fellow & PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: 
-- name:
-  url: 
+- name: HISTART
+  url:"https://lsa.umich.edu/histart" 
+- name: ARHA
+  url: "https://gsssh.ku.edu.tr/en/departments/archaeology-and-history-of-art/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  My research interests include visual and material culture of the medieval Islamic world, including the collection and display of Islamic art in the nineteenth and twentieth centuries, digital art history, digital tools and visualization.
+bio: My research interests include visual and material culture of the medieval Islamic world, including the collection and display of Islamic art in the nineteenth and twentieth centuries, digital art history, digital tools and visualization.
 
 interests:
 - Islamic Art and Architecture
@@ -33,10 +33,10 @@ education:
   courses:
   - course: Freer Visiting Graduate Student Fellow
     institution: University of Michigan
-    year: 
+    year: 2019-
   - course: Ph.D. Candidate in History of Art
     institution: Koç University
-    year: 
+    year: 2015-
   - course: M.A. in History
     institution: Istanbul Bilgi University
     year: 2012
