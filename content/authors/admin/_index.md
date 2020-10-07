@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Graduate Student Fellow & PhD Candidate
+role: Visiting Graduate Student Fellow
 
 # Organizations/Affiliations
 organizations:
