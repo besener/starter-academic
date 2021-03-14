@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[experience]]
+  title = "Research Assistant"
+  company = "Digital Islamic Studies Curriculum at the University of Michigan"
+  company_url = "https://sites.lsa.umich.edu/digitalislam/visual-cultures-of-islam-fall-2020/"
+  location = "Ann Arbor, Michigan"
+  date_start = "2020-08-31"
+  date_end = ""
+  description = """Research Assistant for Khamseen: Islamic Art History Online, a free and open-access online platform of digital resources to aid the teaching of Islamic art,     architecture, and visual culture. It is sponsored by the Digital Islamic Studies Curriculum (DISC) at the University of Michigan through the support of The Andrew W. Mellon   
+  Foundation."""
 
 [[experience]]
   title = "Research Assistant"
