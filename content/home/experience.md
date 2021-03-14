@@ -44,7 +44,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "Digital Islamic Studies Curriculum at the University of Michigan"
+  company = "Visual Cultures of Islam (HISTART285)"
   company_url = "https://sites.lsa.umich.edu/digitalislam/visual-cultures-of-islam-fall-2020/"
   location = "Ann Arbor, Michigan"
   date_start = "2020-08-31"
