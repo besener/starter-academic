@@ -37,7 +37,10 @@ date_format = "Jan 2006"
   location = "Ann Arbor, Michigan"
   date_start = "2020-08-31"
   date_end = ""
-  description = """
+  description = """Khamseen: Islamic Art History Online is a free and open-access online platform of digital resources to aid the teaching of the history of Islamic art, 
+  architecture, and visual culture. Khamseen currently offers a collection of short-form video presentations on a range of topics in the scholarly discipline of Islamic art 
+  history.
+  
   Responsibilities include:
 
   * Website Design & Maintenance
