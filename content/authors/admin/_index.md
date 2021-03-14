@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Graduate Student Fellow
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -31,12 +31,12 @@ interests:
 
 education:
   courses:
-  - course: Freer Visiting Graduate Student Fellow
-    institution: University of Michigan
-    year: 
   - course: Ph.D. Candidate in History of Art
     institution: Koç University
     year: 2015‐
+  - course: Freer Visiting Graduate Student Fellow
+    institution: University of Michigan
+    year: 2019-2020
   - course: M.A. in History
     institution: Istanbul Bilgi University
     year: 2012
@@ -85,4 +85,6 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am a Ph.D. candidate in [History of Art](https://gsssh.ku.edu.tr/en/departments/archaeology-and-history-of-art/) at Koç University, Istanbul, and am currently a Freer visiting graduate student fellow in the Department of [History of Art](https://lsa.umich.edu/histart) at the University of Michigan. My dissertation aims to contextualize bronze mirrors within the lives of the inhabitants of medieval Anatolia. My research interests are the visual and material culture of the medieval Islamic world, including the collection and display of Islamic art in the nineteenth and twentieth centuries, digital art history, digital tools and visualization.
+Hello! I am a Research Assistant in the Digital Islamic Studies Curriculum (DISC) at the University of Michigan, and currently a Ph.D. candidate in [History of Art](https://gsssh.ku.edu.tr/en/departments/archaeology-and-history-of-art/) at Koç University, Istanbul. I am previously a Freer visiting graduate student fellow in the Department of [History of Art](https://lsa.umich.edu/histart) at the University of Michigan.  I am also one of the founding members and the Digital Technologies Coordinator of [*Khamseen*: Islamic Art History Online](https://sites.lsa.umich.edu/khamseen/).
+
+My dissertation aims to contextualize bronze mirrors within the lives of the inhabitants of medieval Anatolia. My research interests are the visual and material culture of the medieval Islamic world, including the collection and display of Islamic art in the nineteenth and twentieth centuries, digital art history, digital tools and visualization. 
