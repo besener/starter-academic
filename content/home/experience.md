@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   company = "Khamseen: Islamic Art History Online"
   company_url = "https://sites.lsa.umich.edu/khamseen/"
   location = "Ann Arbor, Michigan"
-  date_start = "2020-07-15"
+  date_start = "2020-08-31"
   date_end = ""
   description = """
   Responsibilities include:
