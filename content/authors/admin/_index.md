@@ -14,6 +14,8 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
+- name: DISC
+  url: "https://sites.lsa.umich.edu/digitalislam/"
 - name: HISTART
   url: "https://lsa.umich.edu/histart"
 - name: ARHA
