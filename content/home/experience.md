@@ -18,29 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "Digital Technologies Coordinator & Founding Team Member"
-  company = "Khamseen: Islamic Art History Online"
-  company_url = "https://sites.lsa.umich.edu/khamseen/"
-  location = "Ann Arbor, Michigan"
-  date_start = "2020-07-15"
-  date_end = ""
-  description = """
-  Responsibilities include:
 
-  * Website Design & Maintenance
-  * Video & Audio Editing
-  * Digital Tools
-    """
-
-[[experience]]
-  title = "Research Assistant"
-  company = "Digital Islamic Studies Curriculum at the University of Michigan"
-  company_url = "https://sites.lsa.umich.edu/digitalislam/visual-cultures-of-islam-fall-2020/"
-  location = "Ann Arbor, Michigan"
-  date_start = "2020-08-31"
-  date_end = ""
-  description = """Research Assistant for Khamseen: Islamic Art History Online, a free and open-access online platform of digital resources to aid the teaching of Islamic art, architecture, and visual culture. It is sponsored by the Digital Islamic Studies Curriculum (DISC) at the University of Michigan through the support of The Andrew W. Mellon Foundation."""
 
 [[experience]]
   title = "Research Assistant"
@@ -49,7 +27,9 @@ date_format = "Jan 2006"
   location = "Ann Arbor, Michigan"
   date_start = "2020-08-31"
   date_end = "2020-12-31"
-  description = """Research Assistant for Visual Cultures of Islam (HISTART285): An online Islamic art and architecture survey course synchronously taught at the University of Michigan and the Universiy of Maryland. Digital Islamic Studies Curriculum (DISC) at the University of Michigan is funded by the generous financial support of The Andrew W. Mellon Foundation."""
+  description = """Research Assistant for Visual Cultures of Islam (HISTART285): An online Islamic art and architecture survey course synchronously taught at the University of 
+  Michigan and the Universiy of Maryland. Digital Islamic Studies Curriculum (DISC) at the University of Michigan is funded by the generous financial support of The Andrew W. 
+  Mellon Foundation."""
 
 [[experience]]
   title = "Research Assistant"
@@ -58,6 +38,7 @@ date_format = "Jan 2006"
   location = "Istanbul, Turkey"
   date_start = "2015-09-01"
   date_end = "2018-12-31"
-  description = """Research assistant for courses of “ARHA/HIST 475: Architecture of the Seljuks of Anatolia;” “HUMS125: Empires of the Steppes: Art and Architecture of Eurasian Empires;” “ARHA 440: Historiography and Theory of Art History;” and digitization of bibliographical and archival sources."""
+  description = """Research assistant for courses of “ARHA/HIST 475: Architecture of the Seljuks of Anatolia;” “HUMS125: Empires of the Steppes: Art and Architecture of Eurasian 
+  Empires;” “ARHA 440: Historiography and Theory of Art History;” and digitization of bibliographical and archival sources."""
 
 +++
