@@ -3,23 +3,23 @@
 
 title: "Studying East of Byzantium VI: The State of the Field"
 event: "Studying East of Byzantium VI: The State of the Field"
-event_url: "https://eastofbyzantium.org/past-events/studying-east-of-byzantium-vi/"
-location: Tufts University
+event_url: "https://eastofbyzantium.org/past-events/studying-east-of-byzantium-viii-material-culture/"
+location: Tufts University and the Mary Jaharis Center for Byzantine Art and Culture at Hellenic College Holy Cross
 address:
   street: 
-  city: Medford
-  region: MA
+  city: ZOOM Online
+  region: 
   postcode:
   country: 
 
-summary: "Studying East of Byzantium VI: The State of the Field is a two-day workshop that intends to bring together doctoral students in North America studying the Christian East to reflect on the state of the field across its many disciplines, to share methodologies, and to discuss their research with senior specialists in the field."
+summary: "Studying East of Byzantium VIII: Material Culture is a three-part workshop that intends to bring together doctoral students studying the Christian East to reflect on how to study the material world of the Christian East, to share methodologies, and to discuss their research with senior specialists in the field. The workshop continues the efforts of East of Byzantium, the partnership between the Mary Jaharis Center for Byzantine Art and Culture at Hellenic College Holy Cross and the Arthur H. Dadian and Ara T. Oztemel Chair of Armenian Art at Tufts University, to foster an interdisciplinary community of early career scholars engaged in the study of the diverse traditions of the medieval Christian East, including Syria, the South Caucasus, Mesopotamia, and Egypt."
 
-abstract: "Paper Title: Objects of Protection in Medieval Anatolia: Apotropaia among the Armenians, Byzantines and Rum Seljuks"
+abstract: "Paper Title: Interconnectedness in Medieval Anatolia: Objects, Images and Texts"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-03-13
-date_end: 2020-03-14
+date: 2021-11-19
+date_end: 2022-06-07
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -50,11 +50,11 @@ image:
 # Optional filename of your slides within your talk's folder or a URL.
 links:
 - name: URL
-  url: https://eastofbyzantium.org/past-events/studying-east-of-byzantium-vi/
+  url: https://eastofbyzantium.org/past-events/studying-east-of-byzantium-viii-material-culture/
 
 url_slides:
 url_code: 
-url_pdf: "https://eastofbyzantium.files.wordpress.com/2020/03/east-of-byzantium-vi-schedule.pdf"
+url_pdf: 
 url_video:
 
 
