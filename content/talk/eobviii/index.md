@@ -4,7 +4,6 @@
 title: "Studying East of Byzantium VIII: Material Culture"
 event: "Studying East of Byzantium VIII: Material Culture"
 event_url: "https://eastofbyzantium.org/past-events/studying-east-of-byzantium-viii-material-culture/"
-organizers:
 location: Tufts University and the Mary Jaharis Center for Byzantine Art and Culture at Hellenic College Holy Cross
 address:
   street: 
