@@ -11,8 +11,6 @@ address:
   region: Online
   postcode:
   country: 
-  
-"The workshop events will be led by Marica Cassis and Kate Franklin and facilitated by Christina Maranci and Brandie Ratliff. Meetings will be held on Zoom. The first event on November 19 will be a short introductory session where participants introduce themselves and their projects. During the second event on February 18, participants will provide a short 10-minute update on their research and have the opportunity to pose questions or problems to the group. At the final two-day event on June 6–7, each participant will deliver a 20- to 25-minute presentation based on their project. While research projects may be on any topic and need not focus specifically on material culture, the workshop theme should be the focus of the presentations. Individual presentations will be followed by a 10-minute response from Marica Cassis or Kate Franklin and a general discussion. The timing of the workshop meetings will be determined when the participant list is finalized."
 
 summary: "Studying East of Byzantium VIII: Material Culture is a three-part workshop that intends to bring together doctoral students studying the Christian East to reflect on how to study the material world of the Christian East, to share methodologies, and to discuss their research with senior specialists in the field."
 
