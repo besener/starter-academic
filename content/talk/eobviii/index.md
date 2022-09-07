@@ -7,8 +7,8 @@ event_url: "https://eastofbyzantium.org/past-events/studying-east-of-byzantium-v
 location: Tufts University and the Mary Jaharis Center for Byzantine Art and Culture at Hellenic College Holy Cross
 address:
   street: 
-  city: ZOOM
-  region: Online
+  city: 
+  region: 
   postcode:
   country: 
 
