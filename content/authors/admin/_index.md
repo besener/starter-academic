@@ -40,7 +40,7 @@ education:
     institution: University of Michigan
     year: 2019-2020
   - course: Visiting Graduate Student
-    institution: Bryn Marw College
+    institution: Bryn Mawr College
     year: 2017-2018
   - course: M.A. in History
     institution: Istanbul Bilgi University
