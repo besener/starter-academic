@@ -11,11 +11,7 @@ address:
   postcode:
   country: 
 
-summary: "Studying East of Byzantium VIII: Material Culture is a three-part workshop that intends to bring together doctoral students studying the Christian East to reflect on how to study the material world of the Christian East, to share methodologies, and to discuss their research with senior specialists in the field. The workshop continues the efforts of East of Byzantium, the partnership between the Mary Jaharis Center for Byzantine Art and Culture at Hellenic College Holy Cross and the Arthur H. Dadian and Ara T. Oztemel Chair of Armenian Art at Tufts University, to foster an interdisciplinary community of early career scholars engaged in the study of the diverse traditions of the medieval Christian East, including Syria, the South Caucasus, Mesopotamia, and Egypt.
-
-“But script is ink, and images are materials.” This was the riposte of Vrt‘anēs K‘ertogh, a seventh-century Armenian theologian, to iconoclasts who venerated the Gospel but despised matter. Scholars of material culture would agree: what indeed is the divide between textual and material phenomena?
-
-For those who study the Christian East, what is the role of material culture—of monuments, archaeological sites, artifacts, and images? How can the tools of the study of material culture assist in understanding the realities of the Christian East? What is the difference between material culture and art-historical and archaeological approaches? And how does attention to the non-verbal world harmonize with or challenge historical narratives based on textual study? "
+summary: "Studying East of Byzantium VIII: Material Culture is a three-part workshop that intends to bring together doctoral students studying the Christian East to reflect on how to study the material world of the Christian East, to share methodologies, and to discuss their research with senior specialists in the field. The workshop continues the efforts of East of Byzantium, the partnership between the Mary Jaharis Center for Byzantine Art and Culture at Hellenic College Holy Cross and the Arthur H. Dadian and Ara T. Oztemel Chair of Armenian Art at Tufts University, to foster an interdisciplinary community of early career scholars engaged in the study of the diverse traditions of the medieval Christian East, including Syria, the South Caucasus, Mesopotamia, and Egypt."
 
 abstract: "Paper Title: Interconnectedness in Medieval Anatolia: Objects, Images and Texts"
 
