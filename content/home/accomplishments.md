@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "SOAS University of London / Getty Foundation Online Seminar Programme"
+  organization_url = "https://www.soasresearch.org/gettyartisticinterchange"
+  title = "Medieval Eastern Mediterranean Cities as Places of Artistic Interchange"
+  url = "https://www.soasresearch.org/programme"
+  certificate_url = ""
+  date_start = "2021-03-26"
+  date_end = "2021-05-11"
+  description = """Medieval Eastern Mediterranean Cities as Places of Artistic Interchange is an online seminar programme for emerging academics which focuses on the role played by cities in the medieval eastern Mediterranean, from the 12th to the 14th centuries CE, in the production, consumption, transformation and understanding of works of art and architecture. During this time cities in the region were places of exchange of raw materials, manufactured goods, artists and craftsmen, and ideas. With exchange came transformation, either intentional through novel creations, or through creative repurposings and misunderstandings. The mixed populations of cities, in this context mainly ports, contributed to transformation as well, but also to the creation of international languages, whether actual, such as the pidgin of lingua franca which arose at this time, or visual, like the technological transformation of artefacts from the pigments used in manuscript illustration to enamelled glass and glazed ceramics. This led to stylistic developments such as international koinai in architecture (commercial, palatial, military), heraldry (to use the western medieval term: the arts of war and sport) and procession. This seminar pairs cities, scholars and the site-specific questions that arise from them to explore these and other aspects of artistic and cultural interchange in the medieval eastern Mediterranean region, with a particular focus on new research in lesser-known cities to highlight recent archaeological and other scholarly discoveries."""
+
+[[item]]
   organization = "Dumbarton Oaks"
   organization_url = "https://www.doaks.org/visit/museum/exhibitions/past/ornament"
   title = "Textile Graduate Study Day"
