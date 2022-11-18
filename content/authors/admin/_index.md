@@ -65,6 +65,9 @@ social:
 - icon: zotero
   icon_pack: ai
   link: https://www.zotero.org/besener  
+- icon: flickr
+  icon_pack: fab
+  link: https://www.flickr.com/photos/besener/albums
 - icon: github
   icon_pack: fab
   link: https://github.com/besener
