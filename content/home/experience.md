@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = "https://sites.lsa.umich.edu/digitalislam/visual-cultures-of-islam-fall-2020/"
   location = "Ann Arbor, Michigan"
   date_start = "2020-08-31"
-  date_end = ""
+  date_end = "2022-12-31"
   description = """Research Assistant for Khamseen: Islamic Art History Online, a free and open-access online platform of digital resources to aid the teaching of Islamic art,     architecture, and visual culture. It is sponsored by the Digital Islamic Studies Curriculum (DISC) at the University of Michigan through the support of The Andrew W. Mellon 
   Foundation."""
 
