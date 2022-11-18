@@ -33,9 +33,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. Candidate in History of Art
+  - course: Ph.D. in History of Art
     institution: Koç University
-    year: 2015‐
+    year: 2022
   - course: Freer Visiting Graduate Student Fellow
     institution: University of Michigan
     year: 2019-2020
