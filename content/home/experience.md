@@ -19,15 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-[[experience]]
-  title = "Research Assistant"
-  company = "Digital Islamic Studies Curriculum at the University of Michigan"
-  company_url = "https://sites.lsa.umich.edu/digitalislam/internship-program/khamseen/"
-  location = "Ann Arbor, Michigan"
-  date_start = "2020-08-31"
-  date_end = "2022-12-31"
-  description = """Research Assistant for Khamseen: Islamic Art History Online, a free and open-access online platform of digital resources to aid the teaching of Islamic art,     architecture, and visual culture. It is sponsored by the Digital Islamic Studies Curriculum (DISC) at the University of Michigan through the support of The Andrew W. Mellon 
-  Foundation."""
 
 
 [[experience]]
@@ -47,6 +38,17 @@ date_format = "Jan 2006"
   * Video & Audio Editing
   * Digital Tools
     """
+
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Digital Islamic Studies Curriculum at the University of Michigan"
+  company_url = "https://sites.lsa.umich.edu/digitalislam/internship-program/khamseen/"
+  location = "Ann Arbor, Michigan"
+  date_start = "2020-08-31"
+  date_end = "2022-12-31"
+  description = """Research Assistant for Khamseen: Islamic Art History Online, a free and open-access online platform of digital resources to aid the teaching of Islamic art,     architecture, and visual culture. It is sponsored by the Digital Islamic Studies Curriculum (DISC) at the University of Michigan through the support of The Andrew W. Mellon 
+  Foundation."""
 
 
 [[experience]]
