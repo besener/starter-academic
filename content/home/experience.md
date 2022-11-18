@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Digital Islamic Studies Curriculum at the University of Michigan"
-  company_url = "https://sites.lsa.umich.edu/digitalislam/visual-cultures-of-islam-fall-2020/"
+  company_url = "https://sites.lsa.umich.edu/digitalislam/internship-program/khamseen/"
   location = "Ann Arbor, Michigan"
   date_start = "2020-08-31"
   date_end = "2022-12-31"
