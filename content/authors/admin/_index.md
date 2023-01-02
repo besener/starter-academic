@@ -10,16 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: DISC
-  url: "https://sites.lsa.umich.edu/digitalislam/"
 - name: HISTART
   url: "https://lsa.umich.edu/histart"
-- name: ARHA
-  url: "https://gsssh.ku.edu.tr/en/departments/archaeology-and-history-of-art/"
+- name: DISC
+  url: "https://sites.lsa.umich.edu/digitalislam/"
   
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include visual and material culture of the medieval Islamic world, including the collection and display of Islamic art in the nineteenth and twentieth centuries, digital art history, digital tools and visualization.
