@@ -26,7 +26,8 @@ interests:
 - Islamic Art and Architecture
 - Medieval Islamic Metalwork
 - Visual and Material Culture
-- Medieval Anatolia, South Caucasus and Mediterranean 
+- Built environment and landscape
+- Medieval Anatolia, the South Caucasus and the Mediterranean 
 - Digital Art History
 
 education:
@@ -93,4 +94,4 @@ user_groups:
 
 Hello! I am an art historian of the visual and material cultures of the medieval Islamic world, with a special interest in Armenian, Byzantine, and Persian-Islamic artistic exchange and cultural encounters in medieval Anatolia, the South Caucasus, and the Eastern Mediterranean. I am currently a Research Assistant in the [Digital Islamic Studies Curriculum (DISC)](https://sites.lsa.umich.edu/digitalislam/) at the University of Michigan, and hold a Ph.D. in [History of Art](https://gsssh.ku.edu.tr/en/departments/archaeology-and-history-of-art/) from Koç University, Istanbul. I was previously a Freer Visiting Graduate Student Fellow in the Department of [History of Art](https://lsa.umich.edu/histart) at the University of Michigan. I am also one of the founding members of [*Khamseen*: Islamic Art History Online](https://sites.lsa.umich.edu/khamseen/) where I serve as the Digital Technologies Coordinator.
 
-My dissertation contextualizes bronze mirrors within the lives of the inhabitants of medieval Anatolia by considering their various functions in personal adornment and their use in devotional, divinatory, and talismanic practices during the Seljuk period, that is, between the late eleventh and early fourteenth centuries. My research interests also include the collection and display of Islamic art in the nineteenth and twentieth centuries, histoy of sports, digital art history, digital tools, and visualization.
+My dissertation contextualizes bronze mirrors within the lives of the inhabitants of medieval Anatolia by considering their various functions in personal adornment and their use in devotional, divinatory, and talismanic practices during the Seljuk period, that is, between the late eleventh and early fourteenth centuries. My research interests also include the collection and display of Islamic art in the nineteenth and twentieth centuries, histoy of sports, environmental studies, digital art history, digital tools, and visualization.
