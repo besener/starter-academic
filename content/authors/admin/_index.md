@@ -28,7 +28,7 @@ interests:
 - Islamic Art and Architecture
 - Medieval Islamic Metalwork
 - Visual and Material Culture
-- Medieval Anatolia, South Caucasus and Eastern Mediterranean 
+- Medieval Anatolia, South Caucasus and Mediterranean 
 - Digital Art History
 
 education:
