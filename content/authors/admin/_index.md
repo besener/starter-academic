@@ -26,7 +26,7 @@ interests:
 - Islamic Art and Architecture
 - Medieval Islamic Metalwork
 - Visual and Material Culture
-- Built environment and landscape
+- Built Environment and Landscape
 - Medieval Anatolia, the South Caucasus and the Mediterranean 
 - Digital Art History
 
