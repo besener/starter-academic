@@ -24,10 +24,10 @@ bio: My research interests include visual and material culture of the medieval I
 
 interests:
 - Islamic Art and Architecture
+- Artistic interactions in the Medieval Mediterranean, the South Caucasus and Anatolia
 - Medieval Islamic Metalwork
 - Visual and Material Culture
 - Built Environment and Landscape
-- Medieval Anatolia, the South Caucasus and the Mediterranean 
 - Digital Art History
 
 education:
@@ -44,6 +44,9 @@ education:
   - course: M.A. in History
     institution: Istanbul Bilgi University
     year: 2012
+  - course: B.A. in Archaeology and History of Art
+    institution: Bilkent University
+    year: 2008
 
 
 # Social/Academic Networking
