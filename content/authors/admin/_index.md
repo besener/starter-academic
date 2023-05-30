@@ -38,7 +38,7 @@ education:
   - course: Freer Visiting Graduate Student Fellow
     institution: University of Michigan
     year: 2019–2020
-  - course: Visiting Graduate Student
+  - course: Visiting Doctoral Student
     institution: Bryn Mawr College
     year: 2017–2018
   - course: M.A. in History
