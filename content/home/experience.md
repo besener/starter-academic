@@ -32,8 +32,8 @@ date_format = "Jan 2006"
   
   Courses Taught:
 
-  * HISTART 253 [https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=253-001h](The Mediterranean: Art and Exchange)
-  * HISTART 393 [https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=393-006h](Istanbul through the Ages)
+  * HISTART 253 [The Mediterranean: Art and Exchange](https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=253-001h)
+  * HISTART 393 [Istanbul through the Ages](https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=393-006h)
     """
 
 
