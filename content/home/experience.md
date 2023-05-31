@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Lecturer I of Medieval Mediterranean and Islamic Art"
-  company = "The Department of the History of Art"
+  company = "The Department of the History of Art at the University of Michigan"
   company_url = "https://lsa.umich.edu/histart/"
   location = "Ann Arbor, Michigan"
   date_start = "2023-01-01"
@@ -63,7 +63,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "Digital Islamic Studies Curriculum at the University of Michigan"
+  company = "Digital Islamic Studies Curriculum (DISC)"
   company_url = "https://sites.lsa.umich.edu/digitalislam/internship-program/khamseen/"
   location = "Ann Arbor, Michigan"
   date_start = "2020-08-31"
