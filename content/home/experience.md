@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Lecturer I of Medieval Mediterranean and Islamic Art"
-  company = "History of Art Department, University of Michigan"
+  company = "The Department of the History of Art"
   company_url = "https://lsa.umich.edu/histart/"
   location = "Ann Arbor, Michigan"
   date_start = "2023-01-01"
@@ -31,13 +31,12 @@ date_format = "Jan 2006"
   description = """
   
   Current Courses:
-  
+    
   * HISTART 294 [Art and Architecture of the Mediterranean World](https://hartgalleries.lsa.umich.edu/course_listings_f23/index.php?num=294-003h)
   * HISART 393 [Medievalism in Video Games: Art, Culture and Theory](https://hartgalleries.lsa.umich.edu/course_listings_f23/index.php?num=393-005h)
-  
-  
+    
   Courses Taught:
-
+    
   * HISTART 253 [The Mediterranean: Art and Exchange](https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=253-001h)
   * HISTART 393 [Istanbul through the Ages](https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=393-006h)
     """
