@@ -35,6 +35,7 @@ date_format = "Jan 2006"
   * HISTART 294 [Art and Architecture of the Mediterranean World](https://hartgalleries.lsa.umich.edu/course_listings_f23/index.php?num=294-003h)
   * HISART 393 [Medievalism in Video Games: Art, Culture and Theory](https://hartgalleries.lsa.umich.edu/course_listings_f23/index.php?num=393-005h)
   
+  
   Courses Taught:
 
   * HISTART 253 [The Mediterranean: Art and Exchange](https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=253-001h)
@@ -43,7 +44,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Digital Technologies Coordinator & Founding Team Member"
+  title = "Digital Technologies Coordinator & Founding Member"
   company = "Khamseen: Islamic Art History Online"
   company_url = "https://sites.lsa.umich.edu/khamseen/"
   location = "Ann Arbor, Michigan"
