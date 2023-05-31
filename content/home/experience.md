@@ -30,6 +30,11 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
+  Current Courses:
+  
+  * HISTART 294 [Art and Architecture of the Mediterranean World](https://hartgalleries.lsa.umich.edu/course_listings_f23/index.php?num=294-003h)
+  * HISART 393 [Medievalism in Video Games: Art, Culture and Theory](https://hartgalleries.lsa.umich.edu/course_listings_f23/index.php?num=393-005h)
+  
   Courses Taught:
 
   * HISTART 253 [The Mediterranean: Art and Exchange](https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=253-001h)
