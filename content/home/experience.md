@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   company = "International Journal of Islamic Architecture (IJIA)"
   company_url = "https://www.intellectbooks.com/international-journal-of-islamic-architecture"
   location = "Intellect Books"
-  date_start = "2020-06-17"
+  date_start = "2022-06-17"
   date_end = ""
   description = """The International Journal of Islamic Architecture (IJIA) publishes peer-reviewed articles on the urban design, architecture and landscape architecture of the historic Islamic world, encompassing the Middle East and parts of Africa and Asia, but also the more recent geographies of Islam in its global dimensions. The main emphasis is on the detailed analysis of the historical, theoretical, and practical aspects of architecture.
   
