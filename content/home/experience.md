@@ -22,6 +22,22 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+  title = "Lecturer I of Medieval Mediterranean and Islamic Art"
+  company = "History of Art Department, University of Michigan"
+  company_url = "https://lsa.umich.edu/histart/"
+  location = "Ann Arbor, Michigan"
+  date_start = "2023-01-01"
+  date_end = ""
+  description = """
+  
+  Courses Taught:
+
+  * HISTART 253 [https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=253-001h](The Mediterranean: Art and Exchange)
+  * HISTART 393 [https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=393-006h](Istanbul through the Ages)
+    """
+
+
+[[experience]]
   title = "Digital Technologies Coordinator & Founding Team Member"
   company = "Khamseen: Islamic Art History Online"
   company_url = "https://sites.lsa.umich.edu/khamseen/"
