@@ -44,7 +44,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Digital Technologies Coordinator & Founding Member"
+  title = "Founding Member & Digital Technologies Coordinator"
   company = "Khamseen: Islamic Art History Online"
   company_url = "https://sites.lsa.umich.edu/khamseen/"
   location = "Ann Arbor, Michigan"
