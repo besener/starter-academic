@@ -7,6 +7,6 @@ publication: In *Digital Orientalist*
 authors: []
 links:
 - name: URL
-  url: https://digitalorientalist.com/2020/05/04/dissertating-in-the-digital-age-research-and-writing-tools-for-organization-and-productivity/
+  url: https://courses.lsa.umich.edu/medievalisminvideogames/
 share: true
 ---
