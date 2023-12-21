@@ -22,23 +22,24 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Lecturer I of medieval Mediterranean and Islamic Art"
+  title = "Lecturer I of Medieval Mediterranean and Islamic Art"
   company = "The Department of the History of Art at the University of Michigan"
   company_url = "https://lsa.umich.edu/histart/"
   location = "Ann Arbor, Michigan"
   date_start = "2023-01-01"
   date_end = ""
-  description = """
+  description = """I teach transregional and transhistorical courses on Islamic art, architecture, and archaeology, as well as visual and material cultures of the wider Mediterranean world.
 
   
-Current Courses:
+  Current Courses:
     
   * HISTART 253 [The Mediterranean: Art and Exchange](https://hartgalleries.lsa.umich.edu/course_listings_w24/index.php?num=253-001h)
   * HISTART 347 [Sports and Arts in the Middle Ages](https://hartgalleries.lsa.umich.edu/course_listings_w24/index.php?num=347-001h)
   * HISTART 393 [Istanbul Through the Ages](https://hartgalleries.lsa.umich.edu/course_listings_w24/index.php?num=393-006h)
 
-Courses Taught:
-    
+  
+  Courses Taught:
+
   * HISTART 253-001&002 [The Mediterranean: Art and Exchange](https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=253-001h)
   * HISTART 294-003 [Art and Architecture of the Mediterranean World](https://hartgalleries.lsa.umich.edu/course_listings_f23/index.php?num=294-003h)
   * HISTART 393-005 [Medievalism in Video Games: Art, Culture and Theory](https://hartgalleries.lsa.umich.edu/course_listings_f23/index.php?num=393-005h)
@@ -47,11 +48,11 @@ Courses Taught:
 
 
 [[experience]]
-  title = "Editorial Assistant"
+  title = "Assistant Editor"
   company = "International Journal of Islamic Architecture (IJIA)"
   company_url = "https://www.intellectbooks.com/international-journal-of-islamic-architecture"
   location = "Intellect Books"
-  date_start = "2022-06-17"
+  date_start = "2023-09-01"
   date_end = ""
   description = """The International Journal of Islamic Architecture (IJIA) publishes peer-reviewed articles on the urban design, architecture and landscape architecture of the historic Islamic world, encompassing the Middle East and parts of Africa and Asia, but also the more recent geographies of Islam in its global dimensions. The main emphasis is on the detailed analysis of the historical, theoretical, and practical aspects of architecture.
   
@@ -79,6 +80,23 @@ Courses Taught:
   * Website Design & Maintenance
   * Video & Audio Editing
   * Digital Tools
+    """
+
+
+[[experience]]
+  title = "Editorial Assistant"
+  company = "International Journal of Islamic Architecture (IJIA)"
+  company_url = "https://www.intellectbooks.com/international-journal-of-islamic-architecture"
+  location = "Intellect Books"
+  date_start = "2022-06-17"
+  date_end = "2023-09-01"
+  description = """The International Journal of Islamic Architecture (IJIA) publishes peer-reviewed articles on the urban design, architecture and landscape architecture of the historic Islamic world, encompassing the Middle East and parts of Africa and Asia, but also the more recent geographies of Islam in its global dimensions. The main emphasis is on the detailed analysis of the historical, theoretical, and practical aspects of architecture.
+  
+  Responsibilities include:
+
+  * Editorial Tasks
+  * Coordinating Peer Reviews & Reports
+  * Proofreading
     """
 
 
