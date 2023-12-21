@@ -30,14 +30,12 @@ date_format = "Jan 2006"
   date_end = ""
   description = """I teach transregional and transhistorical courses on Islamic art, architecture, and archaeology, as well as visual and material cultures of the wider Mediterranean world.
 
-  
   Current Courses:
     
   * HISTART 253 [The Mediterranean: Art and Exchange](https://hartgalleries.lsa.umich.edu/course_listings_w24/index.php?num=253-001h)
   * HISTART 347 [Sports and Arts in the Middle Ages](https://hartgalleries.lsa.umich.edu/course_listings_w24/index.php?num=347-001h)
   * HISTART 393 [Istanbul Through the Ages](https://hartgalleries.lsa.umich.edu/course_listings_w24/index.php?num=393-006h)
 
-  
   Courses Taught:
 
   * HISTART 253-001&002 [The Mediterranean: Art and Exchange](https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=253-001h)
@@ -52,7 +50,7 @@ date_format = "Jan 2006"
   company = "International Journal of Islamic Architecture (IJIA)"
   company_url = "https://www.intellectbooks.com/international-journal-of-islamic-architecture"
   location = "Intellect Books"
-  date_start = "2023-09-01"
+  date_start = "2022-06-17"
   date_end = ""
   description = """The International Journal of Islamic Architecture (IJIA) publishes peer-reviewed articles on the urban design, architecture and landscape architecture of the historic Islamic world, encompassing the Middle East and parts of Africa and Asia, but also the more recent geographies of Islam in its global dimensions. The main emphasis is on the detailed analysis of the historical, theoretical, and practical aspects of architecture.
   
@@ -80,23 +78,6 @@ date_format = "Jan 2006"
   * Website Design & Maintenance
   * Video & Audio Editing
   * Digital Tools
-    """
-
-
-[[experience]]
-  title = "Editorial Assistant"
-  company = "International Journal of Islamic Architecture (IJIA)"
-  company_url = "https://www.intellectbooks.com/international-journal-of-islamic-architecture"
-  location = "Intellect Books"
-  date_start = "2022-06-17"
-  date_end = "2023-09-01"
-  description = """The International Journal of Islamic Architecture (IJIA) publishes peer-reviewed articles on the urban design, architecture and landscape architecture of the historic Islamic world, encompassing the Middle East and parts of Africa and Asia, but also the more recent geographies of Islam in its global dimensions. The main emphasis is on the detailed analysis of the historical, theoretical, and practical aspects of architecture.
-  
-  Responsibilities include:
-
-  * Editorial Tasks
-  * Coordinating Peer Reviews & Reports
-  * Proofreading
     """
 
 
