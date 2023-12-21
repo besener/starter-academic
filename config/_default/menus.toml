@@ -14,8 +14,8 @@
   weight = 30    
 
 [[main]]
-  name = "Courses"
-  url = "#featured"
+  name = "Posts"
+  url = "#posts"
   weight = 40    
   
 [[main]]
