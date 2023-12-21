@@ -32,13 +32,16 @@ date_format = "Jan 2006"
   
   Current Courses:
     
-  * HISTART 294 [Art and Architecture of the Mediterranean World](https://hartgalleries.lsa.umich.edu/course_listings_f23/index.php?num=294-003h)
-  * HISART 393 [Medievalism in Video Games: Art, Culture and Theory](https://hartgalleries.lsa.umich.edu/course_listings_f23/index.php?num=393-005h)
+  * HISTART 253 [The Mediterranean: Art and Exchange](https://hartgalleries.lsa.umich.edu/course_listings_w24/index.php?num=253-001h)
+  * HISTART 347 [Sports and Arts in the Middle Ages](https://hartgalleries.lsa.umich.edu/course_listings_w24/index.php?num=347-001h)
+  * HISTART 393 [Istanbul Through the Ages](https://hartgalleries.lsa.umich.edu/course_listings_w24/index.php?num=393-006h)
     
   Courses Taught:
     
-  * HISTART 253 [The Mediterranean: Art and Exchange](https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=253-001h)
-  * HISTART 393 [Istanbul Through the Ages](https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=393-006h)
+  * HISTART 253-001&002 [The Mediterranean: Art and Exchange](https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=253-001h)
+  * HISTART 294-003 [Art and Architecture of the Mediterranean World](https://hartgalleries.lsa.umich.edu/course_listings_f23/index.php?num=294-003h)
+  * HISTART 393-005 [Medievalism in Video Games: Art, Culture and Theory](https://hartgalleries.lsa.umich.edu/course_listings_f23/index.php?num=393-005h)
+  * HISTART 393-006 [Istanbul Through the Ages](https://hartgalleries.lsa.umich.edu/course_listings_w23/index.php?num=393-006h)
     """
 
 
