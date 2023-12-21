@@ -16,27 +16,32 @@
 [[main]]
   name = "Highlighted Works"
   url = "#publications"
-  weight = 40    
-  
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 50    
-
-[[main]]
-  name = "Training"
-  url = "#accomplishments"
-  weight = 60  
-  
-[[main]]
-  name = "Skills"
-  url = "#skills"
-  weight = 70  
+  weight = 40 
   
 [[main]]
   name = "Projects"
   url = "#projects"
+  weight = 50    
+  
+[[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 60    
+
+[[main]]
+  name = "Training"
+  url = "#accomplishments"
+  weight = 70  
+  
+[[main]]
+  name = "Skills"
+  url = "#skills"
   weight = 80  
+  
+# [[main]]
+  # name = "Projects"
+  # url = "#projects"
+  # weight = 80  
   
 # [[main]]
   # name = "Highlighted Works"
