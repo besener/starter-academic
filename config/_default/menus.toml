@@ -14,8 +14,8 @@
   weight = 30    
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Courses"
+  url = "#courses"
   weight = 40    
   
 [[main]]
@@ -38,10 +38,10 @@
   url = "#skills"
   weight = 80  
   
-# [[main]]
-  # name = "Projects"
-  # url = "#projects"
-  # weight = 80  
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 90  
   
 # [[main]]
   # name = "Highlighted Works"
