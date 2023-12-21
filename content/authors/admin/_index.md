@@ -15,7 +15,9 @@ role: Lecturer
 # Organizations/Affiliations
 organizations:
 - name: HISTART
-  url: "https://lsa.umich.edu/histart"
+  url: "https://lsa.umich.edu/histart/"
+- name: DSI
+  url: "https://www.digitalstudies.umich.edu/"
 - name: DISC
   url: "https://sites.lsa.umich.edu/digitalislam/"
   
