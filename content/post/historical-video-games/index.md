@@ -12,7 +12,7 @@ authors: []
 links:
 - name: URL
   url: https://courses.lsa.umich.edu/medievalisminvideogames/historical-video-games-as-teaching-tools-for-medieval-islamic-art-and-architecture/
-lastmod: '2023-12-14T00:00:36-05:00'
+lastmod: '2023-12-14T17:00:36-05:00'
 featured: no
 image:
   caption: ''
@@ -23,5 +23,5 @@ projects: []
 
 ##
 
-Undergraduate students in my “Medievalism in Video Games: Art, Culture and Theory” course (HISTART 393) visited the [Computer and Video Games Archive](https://www.lib.umich.edu/locations-and-hours/computer-and-video-game-archive) (CVGA) this past fall. You may read the full post on the course website:[**Historical Video Games as Teaching Tools for Medieval Islamic Art and Architecture**](https://courses.lsa.umich.edu/medievalisminvideogames/historical-video-games-as-teaching-tools-for-medieval-islamic-art-and-architecture/).
+Undergraduate students in my “Medievalism in Video Games: Art, Culture and Theory” course (HISTART 393) visited the [Computer and Video Games Archive](https://www.lib.umich.edu/locations-and-hours/computer-and-video-game-archive) (CVGA) this past fall. You may read more about it on the course website:[**Historical Video Games as Teaching Tools for Medieval Islamic Art and Architecture**](https://courses.lsa.umich.edu/medievalisminvideogames/historical-video-games-as-teaching-tools-for-medieval-islamic-art-and-architecture/).
 
