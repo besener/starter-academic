@@ -1,12 +1,24 @@
 ---
 
 title: Historical Video Games as Teaching Tools for Medieval Islamic Art and Architecture
-date: 2023-12-14
-summary: I now ponder how the rapidly growing industry of historical video games can create new tools for academics. Despite their historically authentic world-building and use in ludic forms of entertainment, such historical video games can construct visually immersive platforms to teach students about art, architecture, historical figures, and now-lost cultural heritage.
 
+date: 2023-12-14
+
+summary: Despite their historically authentic world-building and use in ludic forms of entertainment, such historical video games can construct visually immersive platforms to teach students about art, architecture, historical figures, and now-lost cultural heritage.
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+view: 4
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 
-##
 
 Undergraduate students in my “Medievalism in Video Games: Art, Culture and Theory” course (HISTART 393) visited the [Computer and Video Games Archive](https://www.lib.umich.edu/locations-and-hours/computer-and-video-game-archive) (CVGA) this past fall. The CVGA is located inside the Shapiro Library and has a [rich collection of video games](https://search.lib.umich.edu/catalog?filter.collection=Video+Games+-+4th+Floor&filter.location=Shapiro&library=U-M+Ann+Arbor+Libraries), board games, and a [wide range of gaming consoles](https://www.lib.umich.edu/locations-and-hours/computer-and-video-game-archive/use-archive/game-systems) from the 1970s to the present day. The CVGA archivist and librarian, [David Carter](https://www.lib.umich.edu/users/superman), welcomed us and introduced the archive. Moreover, several copies of the newly released Assassin’s Creed: Mirage game were preordered in advance for class visit.
 
