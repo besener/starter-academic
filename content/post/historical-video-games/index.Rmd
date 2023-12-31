@@ -1,17 +1,15 @@
 ---
-title: Adding featured images to posts
+title: Historical Video Games as Teaching Tools in Medieval Islamic Art and Architecture
 author: ''
-date: '2020-01-02'
-slug: adding-featured-images-to-posts
-categories:
-  - R
+date: '2023-12-14'
+slug: ''
 tags:
-  - R
-  - website
+  - reviews
+  - game studies
 subtitle: ''
-summary: ''
+summary: 'Despite their historically authentic world-building and use in ludic forms of entertainment, such historical video games can construct visually immersive platforms to teach students about art, architecture, historical figures, and now-lost cultural heritage.'
 authors: []
-lastmod: '2020-01-02T17:00:36-05:00'
+lastmod: '2023-12-14T17:00:36-05:00'
 featured: no
 image:
   caption: ''
@@ -43,7 +41,7 @@ After experiencing the Mirage game, Dr. [Glaire Anderson](https://glairedanderso
 ## **Reimagining the Past in Historical Video Games**
 
 
-I now ponder how the rapidly growing industry of historical video games can create new tools for academics. Despite their historically authentic world-building and use in ludic forms of entertainment, such historical video games can construct visually immersive platforms to teach students about art, architecture, historical figure, and now-lost cultural heritage. They do so by developing opportunities for reimagining and representing a past human complex of creative expression, an endeavor that echoes in many ways the tools and methods drawn from the discipline of art history. 
+I now ponder how the rapidly growing industry of historical video games can create new tools for academics. Despite their historically authentic world-building and use in ludic forms of entertainment, such historical video games can construct visually immersive platforms to teach students about art, architecture, historical figures, and now-lost cultural heritage. They do so by developing opportunities for reimagining and representing a past human complex of creative expression, an endeavor that echoes in many ways the tools and methods drawn from the discipline of art history. 
 
 In Fall 2023, “[Medievalism in Video Games: Art, Culture and Theory](https://hartgalleries.lsa.umich.edu/course_listings_f23/index.php?num=393-005h)” course (HISTART 393) is taught by Dr. [Bihter Esener](https://lsa.umich.edu/histart/people/lecturers-and-visitors/Bihter_Esener.html) in the Department of the History of Art. It also is included as an elective course in the undergraduate curriculum of the [Digital Studies Institute](https://www.digitalstudies.umich.edu/) minor.
 
