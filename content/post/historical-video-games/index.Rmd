@@ -1,0 +1,21 @@
+---
+title: Adding featured images to posts
+author: ''
+date: '2020-01-02'
+slug: adding-featured-images-to-posts
+categories:
+  - R
+tags:
+  - R
+  - website
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-01-02T17:00:36-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
