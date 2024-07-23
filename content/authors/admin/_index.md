@@ -15,7 +15,7 @@ role: College Fellow
 # Organizations/Affiliations
 organizations:
 - name: ARTHIST
-  URL: "https://arthistory.northwestern.edu/"
+  url: "https://arthistory.northwestern.edu/"
 - name: HISTART
   url: "https://lsa.umich.edu/histart/"
   
