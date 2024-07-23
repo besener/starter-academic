@@ -24,11 +24,11 @@ date_format = "Jan 2006"
 [[experience]]
   title = "College Fellow of Medieval Mediterranean and Islamic Art"
   company = "The Department of Art History at Northwestern University"
-  company_url = "https://lsa.umich.edu/histart/"
-  location = "Ann Arbor, Michigan"
+  company_url = "https://arthistory.northwestern.edu/"
+  location = "Evanston, Illinois"
   date_start = "2024-09-01"
   date_end = ""
-  description = """I teach transregional and transhistorical courses on Islamic art, architecture, and archaeology, as well as visual and material cultures of the wider Mediterranean world.
+  description = """The College Fellow year is an optional preliminary year for entry-level tenure-track candidates who have not already enjoyed a postdoctoral fellowship or teaching appointment that increases experience in research and/or teaching. It is supported by Weinberg College of Arts & Sciences as well as the Department of Art History at Northwestern University. During this fellowship, I teach transregional and transhistorical courses on Islamic art, architecture, and archaeology, as well as visual and material cultures of the wider Mediterranean world.
     """
 
 
