@@ -22,12 +22,23 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+  title = "College Fellow of Medieval Mediterranean and Islamic Art"
+  company = "The Department of Art History at Northwestern University"
+  company_url = "https://lsa.umich.edu/histart/"
+  location = "Ann Arbor, Michigan"
+  date_start = "2024-09-01"
+  date_end = ""
+  description = """I teach transregional and transhistorical courses on Islamic art, architecture, and archaeology, as well as visual and material cultures of the wider Mediterranean world.
+    """
+
+
+[[experience]]
   title = "Lecturer I of Medieval Mediterranean and Islamic Art"
   company = "The Department of the History of Art at the University of Michigan"
   company_url = "https://lsa.umich.edu/histart/"
   location = "Ann Arbor, Michigan"
   date_start = "2023-01-01"
-  date_end = ""
+  date_end = "2024-08-31"
   description = """I teach transregional and transhistorical courses on Islamic art, architecture, and archaeology, as well as visual and material cultures of the wider Mediterranean world.
 
   
@@ -66,7 +77,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Founding Member & Digital Technologies Coordinator"
+  title = "Founding Member & Digital Technologies Manager"
   company = "Khamseen: Islamic Art History Online"
   company_url = "https://sites.lsa.umich.edu/khamseen/"
   location = "Ann Arbor, Michigan"
