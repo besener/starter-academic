@@ -22,7 +22,7 @@ organizations:
   url: "https://sites.lsa.umich.edu/digitalislam/"
   
 # Short bio (displayed in user profile at end of posts)
-bio: I am an art historian of the visual and material cultures of the medieval Islamic world, with a special interest in Armenian, Byzantine, and Persian-Islamic artistic exchange and cultural encounters in medieval Anatolia, the South Caucasus, and the Eastern Mediterranean. I teach medieval Mediterranean and Islamic art in the [Department of Art History](https://arthistory.northwestern.edu) at Northwestern University. I also am a founding member of [_Khamseen: Islamic Art History Online_](https://sites.lsa.umich.edu/khamseen/). My research interests also include the collection and display of Islamic art in the nineteenth and twentieth centuries, the history of sports, environmental studies, digital art history, visualization, and game studies.
+bio: I am an art historian of the visual and material cultures of the medieval Islamic world, with a special interest in Armenian, Byzantine, and Persian-Islamic artistic exchange and cultural encounters in medieval Anatolia, the South Caucasus, and the Eastern Mediterranean. I teach medieval Mediterranean and Islamic art in the [Department of Art History](https://arthistory.northwestern.edu) at Northwestern University. I also am a founding member of [Khamseen: Islamic Art History Online](https://sites.lsa.umich.edu/khamseen/). My research interests also include the collection and display of Islamic art in the nineteenth and twentieth centuries, the history of sports, environmental studies, digital art history, visualization, and game studies.
 
 interests:
 - Islamic Art and Architecture
