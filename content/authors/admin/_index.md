@@ -1,6 +1,6 @@
 ---
 # Display name
-title:
+title: Bihter Esener
 
 # Username (this should match the folder name)
 authors:
