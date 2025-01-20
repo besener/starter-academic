@@ -58,7 +58,7 @@ social:
 social:
 - icon: academia
   icon_pack: ai
-  link: https://umich.academia.edu/BihterEsener
+  link: https://northwestern.academia.edu/BihterEsener
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=mv_0B-4AAAAJ
