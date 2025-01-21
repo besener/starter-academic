@@ -28,7 +28,13 @@ date_format = "Jan 2006"
   location = "Evanston, Illinois"
   date_start = "2024-09-01"
   date_end = ""
-  description = """The College Fellow year is an optional preliminary year for entry-level tenure-track candidates who have not already enjoyed a postdoctoral fellowship or teaching appointment that increases experience in research and/or teaching. It is supported by Weinberg College of Arts & Sciences as well as the Department of Art History at Northwestern University. During this fellowship, I teach transregional and transhistorical courses on Islamic art, architecture, and archaeology, as well as visual and material cultures of the wider Mediterranean world.
+  description = """The College Fellow year is an optional preliminary year for entry-level tenure-track candidates who have not already enjoyed a postdoctoral fellowship or teaching appointment that increases experience in research and/or teaching. It is supported by Weinberg College of Arts & Sciences and the Department of Art History at Northwestern University. During this fellowship, I teach transregional and transhistorical courses on Islamic art, architecture, archaeology, and visual and material cultures of the wider Mediterranean world.
+
+
+  Winter Quarter 2025 Courses:
+
+  * ART_HIST 101 [Medieval Sports and Art - First-Year Writing Seminar](https://arthistory.northwestern.edu/courses/2024-2025/class-schedules/winter-2025-class-schedule/)
+  * ART_HIST 329 [Special Topics in Medieval Art - Medieval Mediterranean World](https://arthistory.northwestern.edu/courses/2024-2025/class-schedules/winter-2025-class-schedule/)
     """
 
 
@@ -60,24 +66,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Assistant Editor"
-  company = "International Journal of Islamic Architecture (IJIA)"
-  company_url = "https://www.intellectbooks.com/international-journal-of-islamic-architecture"
-  location = "Intellect Books"
-  date_start = "2022-06-17"
-  date_end = ""
-  description = """The International Journal of Islamic Architecture (IJIA) publishes peer-reviewed articles on the urban design, architecture and landscape architecture of the historic Islamic world, encompassing the Middle East and parts of Africa and Asia, but also the more recent geographies of Islam in its global dimensions. The main emphasis is on the detailed analysis of the historical, theoretical, and practical aspects of architecture.
-  
-  Responsibilities include:
-
-  * Editorial Tasks
-  * Coordinating Peer Reviews & Reports
-  * Proofreading
-    """
-
-
-[[experience]]
-  title = "Founding Member & Digital Technologies Manager"
+  title = "Founding Member & Director of Digital Technologies"
   company = "Khamseen: Islamic Art History Online"
   company_url = "https://sites.lsa.umich.edu/khamseen/"
   location = "Ann Arbor, Michigan"
@@ -92,6 +81,25 @@ date_format = "Jan 2006"
   * Website Design & Maintenance
   * Video & Audio Editing
   * Digital Tools
+  * Editorial Tasks
+    """
+
+
+[[experience]]
+  title = "Assistant Editor"
+  company = "International Journal of Islamic Architecture (IJIA)"
+  company_url = "https://www.intellectbooks.com/international-journal-of-islamic-architecture"
+  location = "Intellect Books"
+  date_start = "2022-06-17"
+  date_end = "2025-05-31"
+  description = """The International Journal of Islamic Architecture (IJIA) publishes peer-reviewed articles on the urban design, architecture and landscape architecture of the historic Islamic world, encompassing the Middle East and parts of Africa and Asia, but also the more recent geographies of Islam in its global dimensions. The main emphasis is on the detailed analysis of the historical, theoretical, and practical aspects of architecture.
+  
+  Responsibilities include:
+
+  * Editorial Tasks
+  * Coordinating Peer Reviews & Reports
+  * Proofreading
+  * 2025 IJIA Book Award Coordinator 
     """
 
 
