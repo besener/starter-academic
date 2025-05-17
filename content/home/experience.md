@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   location = "Evanston, Illinois"
   date_start = "2024-09-01"
   date_end = "2024-08-31"
-  description = """The College Fellow year is an optional preliminary year for entry-level tenure-track candidates who have not already enjoyed a postdoctoral fellowship or teaching appointment that increases experience in research and/or teaching. It is supported by Weinberg College of Arts & Sciences and the Department of Art History at Northwestern University. During this fellowship, I teach transregional and transhistorical courses on Islamic art, architecture, archaeology, and visual and material cultures of the wider Mediterranean world.
+  description = """The College Fellow year is an optional preliminary year for entry-level tenure-track candidates who have not already enjoyed a postdoctoral fellowship or teaching appointment that increases experience in research and/or teaching. It is supported by Weinberg College of Arts & Sciences and the Department of Art History at Northwestern University. During this fellowship, I taught transregional and transhistorical courses on Islamic art, architecture, archaeology, and material cultures of the wider Mediterranean world.
 
 
   Winter Quarter 2025 Courses:
