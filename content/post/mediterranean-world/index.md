@@ -1,17 +1,18 @@
 ---
-title: Historical Video Games as Teaching Tools in Medieval Islamic Art and Architecture
+title: Mapping the Mediterranean
 author: ''
-date: '2023-12-14'
+date: '2024-1-27'
 slug: ''
 tags:
-  - reviews
-  - game studies
+  - medieval and early modern maps
+  - digital humanities
+  - Arc
 subtitle: ''
-summary: 'Despite their historically authentic world-building and use in ludic forms of entertainment, such historical video games can construct visually immersive platforms to teach students about art, architecture, historical figures, and now-lost cultural heritage.'
+summary: 'Northwestern undergraduate students in my "Art and Architecture of the Medieval Mediterranean” course (ART_HIST 329) visited the [Map/Geographic Information Room](https://www.library.northwestern.edu/visit/maps/university-library-lower-level/) at the University Library this past winter.'
 authors: []
 links:
 - name: URL
-  url: https://courses.lsa.umich.edu/medievalisminvideogames/historical-video-games-as-teaching-tools-for-medieval-islamic-art-and-architecture/
+  url: https://https://arthistory.northwestern.edu/about/news/2025/prof-bihter-eseners-class-visited-the-university-library-to-examine-medieval-maps.html
 lastmod: '2023-12-14T17:00:36-05:00'
 featured: no
 image:
@@ -23,5 +24,6 @@ projects: []
 
 ##
 
-Undergraduate students in my “Medievalism in Video Games: Art, Culture and Theory” course (HISTART 393) visited the [Computer and Video Games Archive](https://www.lib.umich.edu/locations-and-hours/computer-and-video-game-archive) (CVGA) this past fall. You may read more about it on the course website:[**Historical Video Games as Teaching Tools for Medieval Islamic Art and Architecture**](https://courses.lsa.umich.edu/medievalisminvideogames/historical-video-games-as-teaching-tools-for-medieval-islamic-art-and-architecture/).
+Northwestern undergraduate students in my "Art and Architecture of the Medieval Mediterranean” course (ART_HIST 329) visited the [Map/Geographic Information Room](https://www.library.northwestern.edu/visit/maps/university-library-lower-level/) at the University Library this past winter. My students examined various medieval and early modern maps while learning about the geographies of the Mediterranean. Prior to this hands-on session, Northwestern Library's [Geospatial and Cartographic Specialist](https://www.library.northwestern.edu/research/scholarly/geospatial-and-data-services.html), Mech Frazier, gave a guest lecture about geospatial analysis and ArcGIS StoryMaps in digital humanities. 
+
 
