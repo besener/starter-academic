@@ -22,7 +22,24 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "College Fellow of Medieval Mediterranean and Islamic Art"
+  title = "Assistant Professor of Islamic Art and Medieval Mediterranean"
+  company = "The Department of Art History at Northwestern University"
+  company_url = "https://arthistory.northwestern.edu/"
+  location = "Evanston, Illinois"
+  date_start = "2025-09-01"
+  date_end = ""
+  description = """I teach transregional and transhistorical courses on Islamic art, architecture, and archaeology, as well as visual and material cultures of the wider Mediterranean world. My book project examines the role of bronze mirrors in the lives of medieval Anatolia's inhabitants, considering their multifaceted functions in personal adornment and their use in devotional, divinatory, and talismanic practices. 
+
+  AY 2025-26 Courses:
+   * ART_HIST 329 [Art and Architecture of the Medieval Mediterranean World](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/fall-2025-class-schedule/)
+   * ART_HIST 101 [Medieval Sports and Art - First-Year Writing Seminar](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/winter-2026-class-schedule/)
+   * ART_HIST 226 [Art and Visual Culture of the Islamic World](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/winter-2026-class-schedule/)
+   * ART_HIST 420 [Readings in Islamic Art and Architecture - Studies in Medieval Art Graduate Seminar](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/spring-2026-class-schedule/)
+    """
+
+
+[[experience]]
+  title = "College Fellow"
   company = "The Department of Art History at Northwestern University"
   company_url = "https://arthistory.northwestern.edu/"
   location = "Evanston, Illinois"
@@ -66,7 +83,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Founding Member & Director of Digital Technologies"
+  title = "Founding Member"
   company = "Khamseen: Islamic Art History Online"
   company_url = "https://sites.lsa.umich.edu/khamseen/"
   location = "Ann Arbor, Michigan"
