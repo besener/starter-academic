@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   description = """I teach transregional and transhistorical courses on Islamic art, architecture, and archaeology, as well as visual and material cultures of the wider Mediterranean world. My book project examines the role of bronze mirrors in the lives of medieval Anatolia's inhabitants, considering their multifaceted functions in personal adornment and their use in devotional, divinatory, and talismanic practices. 
 
   AY 2025-26 Courses:
+  
    * ART_HIST 329 [Art and Architecture of the Medieval Mediterranean World](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/fall-2025-class-schedule/)
    * ART_HIST 101 [Medieval Sports and Art - First-Year Writing Seminar](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/winter-2026-class-schedule/)
    * ART_HIST 226 [Art and Visual Culture of the Islamic World](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/winter-2026-class-schedule/)
@@ -89,9 +90,7 @@ date_format = "Jan 2006"
   location = "Ann Arbor, Michigan"
   date_start = "2020-08-31"
   date_end = ""
-  description = """Khamseen: Islamic Art History Online is a free and open-access online platform of digital resources to aid the teaching of the history of Islamic art, 
-  architecture, and visual culture. Khamseen currently offers a collection of short-form video presentations on a range of topics in the scholarly discipline of Islamic art 
-  history.
+  description = """Khamseen: Islamic Art History Online is a free and open-access online platform of digital resources to aid the teaching of the history of Islamic art, architecture, and visual culture. Khamseen currently offers a collection of short-form video presentations on a range of topics in the scholarly discipline of Islamic art history.
   
   Responsibilities include:
 
