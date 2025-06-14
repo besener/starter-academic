@@ -16,8 +16,6 @@ role: College Fellow
 organizations:
 - name: ARTHIST
   url: "https://arthistory.northwestern.edu/"
-- name: HISTART
-  url: "https://lsa.umich.edu/histart/"
   
 # Short bio (displayed in user profile at end of posts)
 bio: I am an art historian of the visual and material cultures of the medieval Islamic world, with a special interest in Armenian, Byzantine, and Persian-Islamic artistic exchange and cultural encounters in medieval Anatolia, the South Caucasus, and the Eastern Mediterranean. I teach medieval Mediterranean and Islamic art in the [Department of Art History](https://arthistory.northwestern.edu) at Northwestern University. My research interests also include the collection and display of Islamic art in the nineteenth and twentieth centuries, the history of sports, environmental studies, digital art history, visualization, and game studies.
@@ -74,12 +72,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/besener
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   link: https://twitter.com/_besener
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:besener15@ku.edu.tr"
+  link: '#contact'  # For a direct email link, use "mailto:besener@northwestern.edu"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
