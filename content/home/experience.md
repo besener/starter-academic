@@ -30,12 +30,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = """I teach transregional and transhistorical courses on Islamic art, architecture, and archaeology, as well as visual and material cultures of the wider Mediterranean world. My book project examines the role of bronze mirrors in the lives of medieval Anatolia's inhabitants, considering their multifaceted functions in personal adornment and their use in devotional, divinatory, and talismanic practices. 
 
-  AY 2025-26 Courses:
   
-   * ART_HIST 329 [Art and Architecture of the Medieval Mediterranean World](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/fall-2025-class-schedule/)
+  2025-26 Courses:
+  
+  
+  * ART_HIST 329 [Art and Architecture of the Medieval Mediterranean World](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/fall-2025-class-schedule/)
    * ART_HIST 101 [Medieval Sports and Art - First-Year Writing Seminar](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/winter-2026-class-schedule/)
    * ART_HIST 226 [Art and Visual Culture of the Islamic World](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/winter-2026-class-schedule/)
-   * ART_HIST 420 [Readings in Islamic Art and Architecture - Studies in Medieval Art Graduate Seminar](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/spring-2026-class-schedule/)
+   * ART_HIST 420 [Readings in Islamic Art and Architecture - Graduate Seminar](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/spring-2026-class-schedule/)
     """
 
 
@@ -49,7 +51,7 @@ date_format = "Jan 2006"
   description = """The College Fellow year is an optional preliminary year for entry-level tenure-track candidates who have not already enjoyed a postdoctoral fellowship or teaching appointment that increases experience in research and/or teaching. It is supported by Weinberg College of Arts & Sciences and the Department of Art History at Northwestern University. During this fellowship, I taught transregional and transhistorical courses on Islamic art, architecture, archaeology, and material cultures of the wider Mediterranean world.
 
 
-  Winter Quarter 2025 Courses:
+ Courses Taught:
 
   * ART_HIST 101 [Medieval Sports and Art - First-Year Writing Seminar](https://arthistory.northwestern.edu/courses/2024-2025/class-schedules/winter-2025-class-schedule/)
   * ART_HIST 329 [Special Topics in Medieval Art - Medieval Mediterranean World](https://arthistory.northwestern.edu/courses/2024-2025/class-schedules/winter-2025-class-schedule/)
