@@ -63,18 +63,18 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0168-9420
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/besener/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/besener
 - icon: zotero
   icon_pack: ai
   link: https://www.zotero.org/besener  
 - icon: flickr
   icon_pack: fab
   link: https://www.flickr.com/photos/besener/albums
-- icon: github
-  icon_pack: fab
-  link: https://github.com/besener
-- icon: linkedin
-  icon_pack: fab
-  link: https://twitter.com/_besener
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:besener@northwestern.edu"
