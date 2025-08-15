@@ -1,7 +1,7 @@
 ---
 title: "Solomon’s Jinns and the Art of Healing: Talismanic Objects in the Therapeutic Landscapes of Medieval Anatolia"
 date: 2025-06-30
-publication_types: ["2"]
+publication_types: []
 abstract:  "Here, I explore the kinds of objects healers used when practising apotropaic magic to treat mental, spiritual, and/or physical conditions, their meaning and uses, and their role and place in the wider therapeutic landscape."
 publication: In *Materialities of Disease Across the Medieval World: Images, Objects, and Remains*, edited by Lori Jones. Leeds: Arc Humanities Press
 authors: []
