@@ -1,3 +1,4 @@
+---
 title: "Solomon’s Jinns and the Art of Healing: Talismanic Objects in the Therapeutic Landscapes of Medieval Anatolia"
 date: 2025-06-30
 publication_types: ["2"]
@@ -10,3 +11,4 @@ links:
 - name: PDF
   url: https://www.arc-humanities.org/9781802701616/materialities-of-disease-across-the-medieval-world/
 share: true
+---
