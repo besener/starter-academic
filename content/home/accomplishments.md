@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "The Office of the Provost at Northwestern University"
+  organization_url = "https://www.soasresearch.org/gettyartisticinterchange"
+  title = "Generative AI 101"
+  url = "https://ai.northwestern.edu/education/generative-ai-101.html"
+  certificate_url = ""
+  date_start = "2025-01-27"
+  date_end = "2025-03-07"
+  description = """Northwestern IT Teaching and Learning Technologies (TLT) invites applications to Generative AI 101, a new six-week professional development program co-sponsored by the Provost’s Advisory Committee on Generative AI. The program aims to increase instructors’ digital literacy in generative artificial intelligence (GenAI). It is designed as an introductory-level course for those interested in understanding the basics before delving into more informed topics and uses of GenAI. Participants will learn fundamental uses and functions of GenAI and develop course assignments."""
+
+[[item]]
   organization = "SOAS University of London / Getty Foundation Online Seminar Programme"
   organization_url = "https://www.soasresearch.org/gettyartisticinterchange"
   title = "Medieval Eastern Mediterranean Cities as Places of Artistic Interchange"
