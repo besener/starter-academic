@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "The Office of the Provost at Northwestern University"
-  organization_url = "https://www.soasresearch.org/gettyartisticinterchange"
+  organization_url = "https://www.it.northwestern.edu/departments/it-services-support/teaching/"
   title = "Generative AI 101 and Teaching"
   url = "https://ai.northwestern.edu/education/generative-ai-101.html"
   certificate_url = ""
