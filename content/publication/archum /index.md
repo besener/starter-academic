@@ -8,7 +8,7 @@ authors: []
 links:
 - name: URL
   url: https://www.jstor.org/stable/jj.29556576.13
-- name: PDF
+- name: URL
   url: https://www.arc-humanities.org/9781802701616/materialities-of-disease-across-the-medieval-world/
 share: true
 ---
