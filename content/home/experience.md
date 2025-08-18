@@ -59,7 +59,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Lecturer I of Medieval Mediterranean and Islamic Art"
+  title = "Lecturer I of Islamic Art and Medieval Mediterranean"
   company = "The Department of the History of Art at the University of Michigan"
   company_url = "https://lsa.umich.edu/histart/"
   location = "Ann Arbor, Michigan"
