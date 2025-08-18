@@ -22,12 +22,11 @@ bio: I am an art historian of the visual and material cultures of the medieval I
 
 interests:
 - Islamic Art and Architecture
-- Artistic interactions in the Medieval Mediterranean, the South Caucasus and Anatolia
-- Medieval Islamic Metalwork
+- Artistic Interactions in the Medieval Mediterranean, South Caucasus, and Anatolia
 - Visual and Material Culture
 - Built Environment and Landscape
 - Digital Art History
-- Game Studies
+- Historical Game Studies
 
 education:
   courses:
