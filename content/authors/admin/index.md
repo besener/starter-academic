@@ -72,8 +72,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/besener
-- icon: bluesky
-  icon_pack: fa-brands
+- icon: preregistered
+  icon_pack: ai
   link: https://bsky.app/profile/besener.bsky.social
 - icon: flickr
   icon_pack: fab
