@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   * ART_HIST 329 [Art and Architecture of the Medieval Mediterranean World](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/fall-2025-class-schedule/)
    * ART_HIST 101 [Medieval Sports and Art - First-Year Writing Seminar](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/winter-2026-class-schedule/)
    * ART_HIST 226 [Art and Visual Culture of the Islamic World](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/winter-2026-class-schedule/)
-   * ART_HIST 420 [Readings in Islamic Art and Architecture - Graduate Seminar](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/spring-2026-class-schedule/)
+   * ART_HIST 420 [Readings in Islamic Art - Graduate Seminar](https://arthistory.northwestern.edu/courses/2025-2026/class-schedules/spring-2026-class-schedule/)
     """
 
 
