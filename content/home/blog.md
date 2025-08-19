@@ -69,7 +69,24 @@ subtitle = ""
 
 [advanced]
  # Custom CSS.
- css_style = ""
+ css_style = """
+
+ [advanced]
+css_style = """
+/* Center cards in the portfolio widget */
+.project-cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.project-cards .card {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+"""
+
 
  # CSS class.
  css_class = ""
