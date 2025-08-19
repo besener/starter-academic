@@ -23,31 +23,17 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "asc"
 
-  # Total posts of this type
-  total_posts = len(posts)
+  # Total posts of this type — must be static, set to 0 initially
+  total_posts = 0
 
-  # Calculate total pages
-  total_pages = 1 if count == 0 else math.ceil(total_posts / count)
+  # Total pages — static placeholder
+  total_pages = 1
 
-  # Calculate current page number
-  current_page = 1 if count == 0 else (offset // count) + 1
+  # Current page — static placeholder
+  current_page = 1
 
-  # Get posts for the current page
-  display_posts = posts[offset: offset + count] if count != 0 else posts
-
-  # Display page info
-  print(f"Page {current_page} of {total_pages}\n")
-  for post in display_posts:
-      print(post)
-
-  # Navigation links
-  if count != 0:
-     if current_page > 1:
-         prev_offset = offset - count
-         print(f"\nPrevious page (offset {prev_offset})")
-     if current_page < total_pages:
-         next_offset = offset + count
-         print(f"Next page (offset {next_offset})")
+  # Display posts — empty array as placeholder
+  display_posts = []
 
 
   # Filter posts by a taxonomy term.
