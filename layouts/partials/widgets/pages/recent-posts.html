@@ -1,25 +1,22 @@
-{{/* Get widget config */}}
+{{/* layouts/partials/widgets/pages/recent-posts.html */}}
+
 {{ $pageType := .Params.content.page_type | default "post" }}
 {{ $count := .Params.content.count | default 5 }}
 {{ $offset := .Params.content.offset | default 0 }}
 {{ $order := .Params.content.order | default "asc" }}
 
-{{/* Fetch pages of the specified type */}}
 {{ $allPosts := where .Site.RegularPages "Type" $pageType }}
 
-{{/* Sort by date */}}
 {{ if eq $order "asc" }}
   {{ $allPosts = sort $allPosts "Date" "asc" }}
 {{ else }}
   {{ $allPosts = sort $allPosts "Date" "desc" }}
 {{ end }}
 
-{{/* Pagination calculations */}}
 {{ $totalPosts := len $allPosts }}
 {{ $totalPages := div (add $totalPosts $count -1) $count }}
 {{ $currentPage := add (div $offset $count) 1 }}
 
-{{/* Slice posts for current page */}}
 {{ if eq $count 0 }}
   {{ $displayPosts := $allPosts }}
 {{ else }}
