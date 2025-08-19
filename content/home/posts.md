@@ -23,6 +23,33 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "asc"
 
+  # Total posts of this type
+  total_posts = len(posts)
+
+  # Calculate total pages
+  total_pages = 1 if count == 0 else math.ceil(total_posts / count)
+
+  # Calculate current page number
+  current_page = 1 if count == 0 else (offset // count) + 1
+
+  # Get posts for the current page
+  display_posts = posts[offset: offset + count] if count != 0 else posts
+
+  # Display page info
+  print(f"Page {current_page} of {total_pages}\n")
+  for post in display_posts:
+      print(post)
+
+  # Navigation links
+  if count != 0:
+     if current_page > 1:
+         prev_offset = offset - count
+         print(f"\nPrevious page (offset {prev_offset})")
+     if current_page < total_pages:
+         next_offset = offset + count
+         print(f"Next page (offset {next_offset})")
+
+
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
