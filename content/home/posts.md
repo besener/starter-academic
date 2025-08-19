@@ -15,10 +15,10 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 1
+  count = 5
   
   # Choose how many pages you would like to offset by
-  offset = 5
+  offset = 1
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "asc"
