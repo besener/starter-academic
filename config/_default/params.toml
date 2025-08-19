@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "besener15@ku.edu.tr"
+email = "besener@northwestern.edu"
 phone = ""
 
 # Address
