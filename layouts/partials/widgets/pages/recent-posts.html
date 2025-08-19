@@ -1,0 +1,51 @@
+{{/* Get widget config */}}
+{{ $pageType := .Params.content.page_type | default "post" }}
+{{ $count := .Params.content.count | default 5 }}
+{{ $offset := .Params.content.offset | default 0 }}
+{{ $order := .Params.content.order | default "asc" }}
+
+{{/* Fetch pages of the specified type */}}
+{{ $allPosts := where .Site.RegularPages "Type" $pageType }}
+
+{{/* Sort by date */}}
+{{ if eq $order "asc" }}
+  {{ $allPosts = sort $allPosts "Date" "asc" }}
+{{ else }}
+  {{ $allPosts = sort $allPosts "Date" "desc" }}
+{{ end }}
+
+{{/* Pagination calculations */}}
+{{ $totalPosts := len $allPosts }}
+{{ $totalPages := div (add $totalPosts $count -1) $count }}
+{{ $currentPage := add (div $offset $count) 1 }}
+
+{{/* Slice posts for current page */}}
+{{ if eq $count 0 }}
+  {{ $displayPosts := $allPosts }}
+{{ else }}
+  {{ $displayPosts := slice $allPosts $offset (min (add $offset $count) $totalPosts) }}
+{{ end }}
+
+<section class="recent-posts-widget">
+  <h2>{{ .Title }}</h2>
+
+  {{ range $displayPosts }}
+    <article class="recent-post">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p>{{ .Summary }}</p>
+      <small>{{ .Date.Format "Jan 2, 2006" }}</small>
+    </article>
+  {{ end }}
+
+  <div class="pagination">
+    {{ if gt $currentPage 1 }}
+      {{ $prevOffset := sub $offset $count }}
+      <a href="?offset={{ $prevOffset }}" class="prev-page">Previous</a>
+    {{ end }}
+    {{ if lt $currentPage $totalPages }}
+      {{ $nextOffset := add $offset $count }}
+      <a href="?offset={{ $nextOffset }}" class="next-page">Next</a>
+    {{ end }}
+    <span>Page {{ $currentPage }} of {{ $totalPages }}</span>
+  </div>
+</section>
