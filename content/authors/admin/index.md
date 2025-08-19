@@ -1,4 +1,4 @@
-<img width="468" height="56" alt="image" src="https://github.com/user-attachments/assets/cd8d8d3e-2b7b-4546-ac56-09e3c3621cf3" />---
+---
 # Display name
 title: Bihter Esener
 
