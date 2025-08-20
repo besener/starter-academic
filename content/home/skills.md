@@ -22,7 +22,7 @@ subtitle = ""
   
 [[feature]]
   icon = "codea"
-  icon_pack = "custom"
+  icon_pack = "custom/codea"
   name = "Basic Coding"
   description = "" 
  
