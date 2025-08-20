@@ -21,8 +21,8 @@ subtitle = ""
   description = "" 
   
 [[feature]]
-  icon = "github"
-  icon_pack = "fab"
+  icon = "codea"
+  icon_pack = "custom"
   name = "Basic Coding"
   description = "" 
  
