@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor of Islamic Art and Medieval Mediterranean
 
 # Organizations/Affiliations
 organizations:
