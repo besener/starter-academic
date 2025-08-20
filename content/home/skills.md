@@ -34,9 +34,9 @@ subtitle = ""
 
 
 [[feature]]
-  icon = " "
-  icon_pack = ""
-  name = " "
+  icon = "github"
+  icon_pack = "fab"
+  name = "Basic Coding"
 
 
 [[feature]]
