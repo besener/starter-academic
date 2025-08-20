@@ -17,13 +17,13 @@ subtitle = ""
 [[feature]]
   icon = "adobe"
   icon_pack = "fab"
-  name = "Adobe Photoshop"
+  name = "Adobe Photoshop & Illustrator"
   description = "" 
   
 [[feature]]
-  icon = "adobe"
+  icon = "display-code"
   icon_pack = "fab"
-  name = "Adobe Illustrator"
+  name = "Basic Coding"
   description = "" 
  
 [[feature]]
@@ -34,9 +34,9 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "github"
-  icon_pack = "fab"
-  name = "Basic Coding"
+  icon = ""
+  icon_pack = ""
+  name = ""
 
 
 [[feature]]
