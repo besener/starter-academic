@@ -1,0 +1,18 @@
+---
+title: "Parchment"
+date: 2025-08-21
+summary: "My blog page."
+tags: ["blog", "writing"]
+featured: false
+
+# External link (makes the post clickable to your URL)
+external_link: "https://besener.github.io/parchment/"
+
+# Optional image for preview card
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+---
+
+
