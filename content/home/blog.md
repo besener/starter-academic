@@ -78,13 +78,4 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-
-[advanced]
-# Custom CSS. 
-css_style = """
-/* Hide last updated date in Recent Blog Posts widget */
-.pages-widget .page-card .page-date {
-    display: none;
-}
-"""
 +++
