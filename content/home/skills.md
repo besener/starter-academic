@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "github"
   icon_pack = "fab"
-  name = "Basic Coding"
+  name = "Basic Html, Go, and Hugo"
   description = "" 
  
 [[feature]]
