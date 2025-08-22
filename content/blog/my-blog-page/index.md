@@ -1,8 +1,8 @@
 ---
 title: "Parchment"
 date: 2025-08-21
-summary: '<a href="https://besener.github.io/parchment/" target="_blank" rel="noopener noreferrer">My blog page</a>'
-tags: ["blog", "writing"]
+summary: '<a href="https://besener.github.io/parchment/" target="_blank" rel="noopener noreferrer">My blog about life in/outside academia</a>'
+tags: ["blog", "writing", "life"]
 featured: false
 
 # External URL for the post
