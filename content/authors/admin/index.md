@@ -75,6 +75,9 @@ social:
 - icon: flickr
   icon_pack: fab
   link: https://www.flickr.com/photos/besener/albums
+- icon: bluesky
+  icon_pack: ai
+  link: https://bsky.app/profile/besener.bsky.social
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:besener@northwestern.edu"
