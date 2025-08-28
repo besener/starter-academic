@@ -75,7 +75,7 @@ social:
 - icon: flickr
   icon_pack: fab
   link: https://www.flickr.com/photos/besener/albums
-- icon: bluesky-custom
+- icon: bluesky
   link: https://bsky.app/profile/besener.bsky.social
 - icon: envelope
   icon_pack: fas
