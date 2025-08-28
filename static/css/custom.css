@@ -1,0 +1,12 @@
+/* Render the custom Bluesky icon */
+.social .social-link[href*="bsky.app"]::before {
+    content: '';
+    display: inline-block;
+    width: 1em;          /* matches other icons */
+    height: 1em;
+    margin-right: 0.3em; /* spacing like other icons */
+    vertical-align: middle;
+    background-image: url('/images/iconpack/bluesky.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
