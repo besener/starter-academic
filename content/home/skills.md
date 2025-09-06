@@ -31,7 +31,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "Wordpress"
   description = ""
-    
+
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = ""
+
 [[feature]]
   icon = "tasks"
   icon_pack = "fas"
@@ -49,18 +54,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "Turkish, English, Persian, Ottoman Turkish"
   description = ""  
-
-[[feature]]
-  icon = ""
-  icon_pack = ""
-  name = ""
-
-
-[[feature]]
-  icon = " "
-  icon_pack = ""
-  name = " "
-
 
 [[feature]]
   icon = " "
