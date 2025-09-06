@@ -19,29 +19,29 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "SOAS University of London / Getty Foundation"
+  organization = "SOAS-Getty Connecting Art Histories Research"
   organization_url = "https://www.getty.edu/projects/connecting-art-histories/grants-awarded/#GreaterMediterranean"
-  title = "SOAS-Getty Connecting Art Histories Research Project"
+  title = "SOAS University of London / Getty Foundation"
   url = "https://gabam.ku.edu.tr/en/research/grants/"
   certificate_url = "https://www.getty.edu/projects/connecting-art-histories/grants-awarded/#GreaterMediterranean"
-  date_start = "2021-03-26"
+  date_start = "2021-03-25"
   date_end = "2021-05-11"
   description = """The virtual SOAS-Getty Connecting Art Histories research seminar grant for the _Medieval Eastern Mediterranean Cities as Places of Artistic Interchange_ project for advanced graduate students, and recent PhDs to explore medieval cities as sites of dynamic transformation."""
 
 [[item]]
-  organization = "American Research Institute in Turkey"
+  organization = "George M. A. Hanfmann Fellowship"
   organization_url = "https://aritweb.org/fellowships/turkey-based-fellowships/"
-  title = "George M. A. Hanfmann Fellowship"
+  title = "American Research Institute in Turkey (ARIT)"
   url = "https://aritweb.org/fellowships/arit-fellows-2015-2020/"
   certificate_url = ""
   date_start = "2019-09-30"
-  date_end = "2020-06-30"
+  date_end = "2020-07-31"
   description = """George and Ilse Hanfmann Fellowships provide fellowships for young Turkish scholars and advanced graduate students in archaeology and related fields who are affiliated with Turkish institutions and who wish to study abroad in North America or elsewhere."""
 
 [[item]]
-  organization = "Koç University’s Stavros Niarchos Foundation Center for Late Antique and Byzantine Studies (GABAM)"
+  organization = "Research Grant"
   organization_url = "https://aritweb.org/fellowships/turkey-based-fellowships/"
-  title = "Research Grant"
+  title = " Koç University’s Stavros Niarchos Foundation Center for Late Antique and Byzantine Studies (GABAM)"
   url = "https://gabam.ku.edu.tr/en/research/grants/"
   certificate_url = ""
   date_start = "2018-07-01"
