@@ -26,13 +26,14 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-03-25"
   date_end = "2021-05-11"
-  description = """The virtual SOAS-Getty Connecting Art Histories research seminar grant for the _Medieval Eastern Mediterranean Cities as Places of Artistic Interchange_ project for advanced graduate students, and recent PhDs to explore medieval cities as sites of dynamic transformation."""
+  description = """The virtual SOAS-Getty Connecting Art Histories research seminar grant for the _Medieval Eastern Mediterranean Cities as Places of Artistic Interchange_ project for advanced graduate students, and recent PhDs to explore medieval cities as sites of dynamic transformation.
   links:
 - name: URL
-  url: https://www.getty.edu/projects/connecting-art-histories/grants-awarded/#GreaterMediterranean
+  url: https://www.getty.edu/projects/connecting-art-histories/grants-awarded/#GreaterMediterranean """
+
 
 [[item]]
-  organization = "George M. A. Hanfmann Fellowship"
+  organization = "George Maxim Anossov Hanfmann Research Fellowship"
   organization_url = "https://aritweb.org/fellowships/turkey-based-fellowships/"
   title = "American Research Institute in Turkey (ARIT)"
   url = "https://aritweb.org/fellowships/arit-fellows-2015-2020/"
