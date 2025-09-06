@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "SOAS University of London / Getty Foundation"
+  organization_url = "https://www.getty.edu/projects/connecting-art-histories/grants-awarded/#GreaterMediterranean"
+  title = "SOAS-Getty Connecting Art Histories Research Project"
+  url = "https://gabam.ku.edu.tr/en/research/grants/"
+  certificate_url = "https://www.getty.edu/projects/connecting-art-histories/grants-awarded/#GreaterMediterranean"
+  date_start = "2021-03-26"
+  date_end = "2021-05-11"
+  description = """The virtual SOAS-Getty Connecting Art Histories research seminar grant for the _Medieval Eastern Mediterranean Cities as Places of Artistic Interchange_ project for advanced graduate students, and recent PhDs to explore medieval cities as sites of dynamic transformation."""
+
+[[item]]
   organization = "American Research Institute in Turkey"
   organization_url = "https://aritweb.org/fellowships/turkey-based-fellowships/"
   title = "George M. A. Hanfmann Fellowship"
