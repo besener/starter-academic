@@ -18,7 +18,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
 [[item]]
   organization = "American Research Institute in Turkey"
   organization_url = "https://aritweb.org/fellowships/turkey-based-fellowships/"
@@ -29,5 +28,4 @@ date_format = "Jan 2006"
   date_end = "2020-06-30"
   description = """George and Ilse Hanfmann Fellowships provide fellowships for young Turkish scholars and advanced graduate students in archaeology and related fields who are affiliated with Turkish institutions and who wish to study abroad in North America or elsewhere."""
 
-  
 +++
