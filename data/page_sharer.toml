@@ -10,19 +10,19 @@
   enable = true
 
 [[buttons]]
+  id = "bluesky"
+  url = "https://bsky.app/intent/compose?url={url}&title={title}&text=@besener.bsky.social/"
+  title = "Bluesky"
+  icon_pack = "fab"
+  icon = "bluesky"
+  enable = true
+
+[[buttons]]
   id = "facebook"
   url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
   title = "Facebook"
   icon_pack = "fab"
   icon = "facebook"
-  enable = true
-
-[[buttons]]
-  id = "bluesky"
-  url = "https://bsky.app/intent/compose?url={url}&title={title}&text=@besener.bsky.social/"
-  title = "Bluesky"
-  icon_pack = "fas"
-  icon = "bluesky"
   enable = true
 
 [[buttons]]
