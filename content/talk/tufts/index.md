@@ -43,9 +43,9 @@ image:
 #   Uncomment and edit lines below to show custom links.
 # links:
 # - name: Follow
-#   url: https://www.linkedin.com/
+#   url: https://twitter.com
 #   icon_pack: fab
-#   icon: linkedin
+#   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
 links:
