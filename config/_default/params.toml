@@ -288,9 +288,11 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  custom = true 
 
 [[params.profile_buttons]]
   icon = "bluesky"
   icon_pack = "custom"
   link = "https://bsky.app/intent/compose?url={url}&title={title}&text=@besener.bsky.social/"
+
 
