@@ -34,8 +34,12 @@ subtitle = ""
 
 [[feature]]
   icon = ""
-  icon_pack = ""
-  name = ""
+
+[[feature]]
+  icon = " "
+
+[[feature]]
+  icon = " "
 
 [[feature]]
   icon = "tasks"
@@ -54,11 +58,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "Turkish, English, Persian, Ottoman Turkish"
   description = ""  
-
-[[feature]]
-  icon = " "
-  icon_pack = ""
-  name = " "
   
 # Uncomment to use emoji icons.
 # [[feature]]
