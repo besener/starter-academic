@@ -293,4 +293,5 @@ plugins_js  = []
   icon = "bluesky"
   icon_pack = "custom"
   link = "https://bsky.app/intent/compose?url={url}&title={title}&text=@besener.bsky.social/"
+  sharing = true
 
