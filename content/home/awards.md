@@ -23,10 +23,13 @@ date_format = "Jan 2006"
   organization_url = "https://www.getty.edu/projects/connecting-art-histories/grants-awarded/#GreaterMediterranean"
   title = "SOAS University of London / Getty Foundation"
   url = "https://gabam.ku.edu.tr/en/research/grants/"
-  url_url = "https://www.getty.edu/projects/connecting-art-histories/grants-awarded/#GreaterMediterranean"
+  certificate_url = ""
   date_start = "2021-03-25"
   date_end = "2021-05-11"
   description = """The virtual SOAS-Getty Connecting Art Histories research seminar grant for the _Medieval Eastern Mediterranean Cities as Places of Artistic Interchange_ project for advanced graduate students, and recent PhDs to explore medieval cities as sites of dynamic transformation."""
+  links:
+- name: URL
+  url: https://www.getty.edu/projects/connecting-art-histories/grants-awarded/#GreaterMediterranean
 
 [[item]]
   organization = "George M. A. Hanfmann Fellowship"
