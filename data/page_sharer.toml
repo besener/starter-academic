@@ -7,7 +7,7 @@
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "facebook"
