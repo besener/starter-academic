@@ -28,4 +28,14 @@ date_format = "Jan 2006"
   date_end = "2020-06-30"
   description = """George and Ilse Hanfmann Fellowships provide fellowships for young Turkish scholars and advanced graduate students in archaeology and related fields who are affiliated with Turkish institutions and who wish to study abroad in North America or elsewhere."""
 
+[[item]]
+  organization = "Koç University’s Stavros Niarchos Foundation Center for Late Antique and Byzantine Studies (GABAM)"
+  organization_url = "https://aritweb.org/fellowships/turkey-based-fellowships/"
+  title = "Research Grant"
+  url = "https://gabam.ku.edu.tr/en/research/grants/"
+  certificate_url = ""
+  date_start = "2018-07-01"
+  date_end = "2018-08-30"
+  description = """ """
+
 +++
