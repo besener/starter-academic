@@ -21,8 +21,8 @@
   id = "bluesky"
   url = "https://bsky.app/intent/compose?url={url}&title={title}&text=@besener.bsky.social/"
   title = "Bluesky
-  icon_pack = "fa"
-  icon = "bluesky"
+  icon_pack = "fab"
+  icon = "bluesky-fa"
   enable = true
 
 [[buttons]]
