@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-03-25"
   date_end = "2021-05-11"
-  description = """The virtual SOAS-Getty Connecting Art Histories research seminar grant for the _Medieval Eastern Mediterranean Cities as Places of Artistic Interchange_ project for advanced graduate students, and recent PhDs to explore medieval cities as sites of dynamic transformation."""
+  description = """The virtual **SOAS-Getty Connecting Art Histories** research seminar grant for the _Medieval Eastern Mediterranean Cities as Places of Artistic Interchange_ project for advanced graduate students, and recent PhDs to explore medieval cities as sites of dynamic transformation."""
 
 [[item]]
   organization = "George Maxim Anossov Hanfmann Research Fellowship"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-09-30"
   date_end = "2020-07-31"
-  description = """George and Ilse Hanfmann Fellowships provide fellowships for young Turkish scholars and advanced graduate students in archaeology and related fields who are affiliated with Turkish institutions and who wish to study abroad in North America or elsewhere."""
+  description = """**George and Ilse Hanfmann Fellowships** provide fellowships for young Turkish scholars and advanced graduate students in archaeology and related fields who are affiliated with Turkish institutions and who wish to study abroad in North America or elsewhere."""
 
 [[item]]
   organization = "Research Assistantship"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-08-31"
   date_end = "2022-12-31"
-  description = """Research Assistantship for _Khamseen: Islamic Art History Online_, funded by the _Digital Islamic Studies Curriculum_ (DISC) at the University of Michigan through the support of The Andrew W. Mellon Foundation.."""
+  description = """Research Assistantship for _Khamseen: Islamic Art History Online_, funded by the _Digital Islamic Studies Curriculum_ (DISC) at the University of Michigan through the support of the **Andrew W. Mellon Foundation**."""
 
 [[item]]
   organization = "Dissertation Research Grant"
@@ -56,6 +56,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-07-01"
   date_end = "2018-08-30"
-  description = """ """
+  description = """The Sevgi Gönül Center for Byzantine Studies (GABAM) at Koç University, previously known as the **Stavros Niarchos Foundation Center for Late Antique and Byzantine Studies (2015–2023)**, awarded a grant to support dissertation research."""
 
 +++
