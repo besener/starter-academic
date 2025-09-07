@@ -56,6 +56,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-07-01"
   date_end = "2018-08-30"
-  description = """The Sevgi Gönül Center for Byzantine Studies (GABAM) at Koç University, previously known as the **[Stavros Niarchos Foundation Center for Late Antique and Byzantine Studies (2015–2023)](https://www.snf.org/en/work/grants/grants-database/koc-university-stavros-niarchos-foundation-center-for-late-antique-and-byzantine-studies-program-2014/)**, awarded a grant to support dissertation research."""
+  description = """The Sevgi Gönül Center for Byzantine Studies (GABAM) at Koç University, previously known as the **[Stavros Niarchos Foundation Center for Late Antique and Byzantine Studies (2015–2022)](https://www.snf.org/en/work/grants/grants-database/koc-university-stavros-niarchos-foundation-center-for-late-antique-and-byzantine-studies-program-2014/)**, awarded a grant to support dissertation research."""
 
 +++
