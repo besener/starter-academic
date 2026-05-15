@@ -1,8 +1,8 @@
 +++
-# A Recent Blog Posts section created with the Portfolio widget.
+# A Recent Blog Posts section created with the Pages widget.
 # This section displays recent blog posts from `content/blog/`.
 
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 110 # Order that this section will appear.
@@ -73,9 +73,16 @@ subtitle = ""
   # text_color_light = true  
   
 [advanced]
+ # Hide metadata only in Blog widget
+  css_style = """
+  #blog .article-metadata,
+  .home-section[id*="blog"] .article-metadata {
+    display: none;
+  }
+  """
  # Custom CSS. 
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
