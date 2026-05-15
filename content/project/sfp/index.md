@@ -16,7 +16,7 @@ image:
   preview_only: false
 ---
 
-## Visit Parchment
+## Visit Searle Fellows Page
 
 Click the button below to open the blog page:
 
