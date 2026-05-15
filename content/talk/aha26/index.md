@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The 139th annual meeting of the American Historical Association"
+title: "The 139th Annual Meeting of the American Historical Association"
 event: "Circulations in Premodern Maritime and Silk Road Inter-Asia"
 event_url: "https://www.historians.org/past-meeting/2026-annual-meeting"
 location: The Field Museum (Chicago, IL)
