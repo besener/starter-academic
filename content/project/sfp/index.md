@@ -16,7 +16,7 @@ image:
   preview_only: false
 ---
 
-## Visit Searle Fellows Page
+## Visit Searle Fellows Project
 
 Click the button below to open the blog page:
 
