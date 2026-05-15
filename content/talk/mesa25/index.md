@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The 59th Annual Meeting of the Middle East Studies Association (MESA)"
+title: "The 59th Annual Meeting of the Middle East Studies Association"
 event: "Digital Reimaginings of Middle Eastern Studies I: Crafting Virtual Worlds Brick by Brick"
 event_url: "https://mesana.org/pdf/MESA2025_preview.pdf"
 location: Washington, D.C.
