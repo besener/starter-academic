@@ -73,14 +73,6 @@ subtitle = ""
   # text_color_light = true  
   
 [advanced]
- # Hide metadata only in Blog widget.
-  css_style = ""
-  #blog .article-metadata,
-  .home-section[id*="blog"] .article-metadata {
-    display: none;
-  }
-  ""
-  
  # Custom CSS. 
  css_style = ""
 
