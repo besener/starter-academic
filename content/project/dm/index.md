@@ -16,7 +16,7 @@ image:
   preview_only: false
 ---
 
-## Visit Searle Fellows Project
+## Visit Digital Mediterranean
 
 Click the button below to open the blog page:
 
