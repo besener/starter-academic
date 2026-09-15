@@ -2,7 +2,7 @@
 title: "Digital Mediterranean"
 date: 2026-09-15
 summary: 'The culminating project for <a href="https://besener.github.io/digitalmediterranean/" target="_blank" rel="noopener noreferrer">ART_HIST 322 / MENA 390</a> is designed to help students to develop GIS knowledge and use ArcGIS StoryMaps to present research on the art, architecture, and material culture of the medieval Mediterranean world.'
-tags: ["mediterranean", "GIS", "pedagogy"]
+tags: ["mediterranean", "GIS", "pedagogy", "digital tools"]
 featured: false
 
 # External URL for the post
